@@ -579,6 +579,22 @@ plot_gaps()
 
 ::::
 
+<!-- =====================================================================
+     CONCLUSION (static text, outside any cr-section)
+     ===================================================================== -->
+
+## What the dots add up to
+
+::: {.interlude}
+Informality in India is not a corner of the labour market. It *is* the labour market. Nearly nine in ten workers, `r round(h("informal_emp_m"))` million people, work without the protections that a formal job is supposed to bring: a provident fund or pension, gratuity, health and maternity cover.
+
+The picture that emerges is broader than the usual image of street vendors and day labourers. Informal work is concentrated on farms and in small proprietary businesses, but it does not stop at their door. It reaches into government offices, companies and cooperatives, where `r inc("informal_emp", "enterprise", "Formal sector")`% of workers hold informal jobs, and into salaried work, where more than half of all employees have no social security. A regular pay cheque, it turns out, is not the same thing as a secure job. Nor is a skilled one: about half of managers, professionals and technicians are informal too.
+
+Informality is also unevenly shared. Scheduled Tribe and Scheduled Caste workers are more likely to be informal than others, and much of that gap comes from *where* they work: they are concentrated in farming and manual labour, where informality is close to universal. Within white-collar work the pattern can even reverse, most likely because reserved government posts are among the few jobs that come with full protection. Those posts matter, but they reach very few people.
+
+These are descriptive patterns, not causes, and one survey year cannot say whether informality is rising or falling. What it does show is the scale of the gap between how most Indians work and the protections that labour law and social security are designed to provide. Any serious discussion of jobs in India has to start from that gap: not from the minority of workers on formal payrolls, but from the `r round(h("informal_emp_share"))`% who are not.
+:::
+
 
 <!-- =====================================================================
      SECTION 5: ABOUT THE DATA (ordinary text, no scrolling effects)
