@@ -1,0 +1,59 @@
+"outcome","dimension","category","share","workers_m"
+"informal_emp","enterprise","Crop agriculture",99.4518124543143,159.26522353
+"informal_emp","enterprise","Formal sector",29.0753599324,68.55563156
+"informal_emp","enterprise","Household (domestic work)",99.6271470621159,6.1710604
+"informal_emp","enterprise","Informal sector",97.8084128288184,244.89921006
+"informal_emp","enterprise","Other/unknown",97.5966890425693,2.819849
+"informal_emp","sector8","Agriculture",99.4416393693256,197.03252693
+"informal_emp","sector8","Construction",98.0746549472132,59.98685214
+"informal_emp","sector8","Electricity, gas, water",51.0607653588028,3.40248102
+"informal_emp","sector8","Manufacturing",78.444730490406,58.83511368
+"informal_emp","sector8","Mining & quarrying",64.9635949887273,1.45659205
+"informal_emp","sector8","Other services",60.3394920845719,66.04852254
+"informal_emp","sector8","Trade, hotels & restaurants",94.2556322195864,64.97328884
+"informal_emp","sector8","Transport, storage & communication",73.5994507879257,29.97559735
+"informal_emp","occ5","Clerical, sales & service",82.0424292343408,75.22506945
+"informal_emp","occ5","Craft & machine operators",90.9280826720719,85.48854966
+"informal_emp","occ5","Elementary (manual labor)",94.119862524363,107.33718006
+"informal_emp","occ5","Managers & professionals",50.7602264796853,54.54451944
+"informal_emp","occ5","Skilled agriculture",99.672786303193,159.11565594
+"informal_emp","emp_status_grp","Casual labor",100,98.99347394
+"informal_emp","emp_status_grp","Regular wage/salaried",54.6058820027497,121.03093016
+"informal_emp","emp_status_grp","Self-employed",99.9934666564885,198.09443629
+"informal_emp","emp_status_grp","Unpaid family helper",100,63.59213416
+"informal_emp","sex_lbl","Female",90.6417607723967,146.30428446
+"informal_emp","sex_lbl","Male",87.697270630332,335.39192207
+"informal_emp","sex_lbl","Transgender",100,0.01476802
+"informal_emp","social_grp","OBC",89.5665701454804,220.6287292
+"informal_emp","social_grp","Others",82.5159960929949,110.76415507
+"informal_emp","social_grp","SC",90.9839701063486,97.96806293
+"informal_emp","social_grp","ST",92.8636470903391,52.35002735
+"informal_emp","age_grp","0-14",100,0.2874386
+"informal_emp","age_grp","15-29",87.1793324924302,115.01749594
+"informal_emp","age_grp","30-44",86.3385488099172,185.97489371
+"informal_emp","age_grp","45-59",89.4208371028681,133.55927768
+"informal_emp","age_grp","60+",98.5673030545374,46.87186862
+"informal_sector","sector8","Agriculture",98.3562169539752,37.50502729
+"informal_sector","sector8","Construction",94.8128843363151,59.06363707
+"informal_sector","sector8","Electricity, gas, water",37.2608505844269,3.39134636
+"informal_sector","sector8","Manufacturing",72.5460524860617,58.53259358
+"informal_sector","sector8","Mining & quarrying",55.5875410464029,1.41847996
+"informal_sector","sector8","Other services",39.5026184984525,65.22193467
+"informal_sector","sector8","Trade, hotels & restaurants",93.9549644902137,64.70501908
+"informal_sector","sector8","Transport, storage & communication",70.2889194168844,29.78786401
+"informal_sector","emp_status_grp","Casual labor",95.2355932540899,68.55850611
+"informal_sector","emp_status_grp","Regular wage/salaried",39.6775182255901,118.44231467
+"informal_sector","emp_status_grp","Self-employed",99.988807977411,115.63763294
+"informal_sector","emp_status_grp","Unpaid family helper",100,16.9874483
+"informal_sector","sex_lbl","Female",72.5614645456164,86.02607238
+"informal_sector","sex_lbl","Male",78.1164627010409,233.59466247
+"informal_sector","sex_lbl","Transgender",29.8939264626478,0.00516717
+"informal_sector","social_grp","OBC",79.2051347389501,145.53389671
+"informal_sector","social_grp","Others",69.9262943182309,82.72645953
+"informal_sector","social_grp","SC",78.6169047206386,67.70314887
+"informal_sector","social_grp","ST",78.4164999876168,23.66239691
+"informal_sector","age_grp","0-14",96.6447250691745,0.14501375
+"informal_sector","age_grp","15-29",77.5029001179188,84.65998862
+"informal_sector","age_grp","30-44",74.8098134196218,131.71101347
+"informal_sector","age_grp","45-59",75.660926422907,81.80449234
+"informal_sector","age_grp","60+",87.8571663615865,21.30539384

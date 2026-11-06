@@ -1,0 +1,602 @@
+---
+title: "Where does India work?"
+subtitle: "Evidence from PLFS (2025)"
+author: "Roshan Saha"
+date: last-modified
+date-format: "D MMMM YYYY"
+format:
+  closeread-html:
+    theme: [cosmo, themes/shared.scss, themes/dark.scss]   # <- change the last name to switch theme
+    cr-section:
+      layout: sidebar-left
+---
+
+<!-- =====================================================================
+     SETUP (R)
+     Reads the CSVs made by scripts/Occupation type.R, reads the colour
+     palette from the theme file, and defines small helper functions that
+     pull single numbers into the text.
+     ===================================================================== -->
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+# ---- THEME: must match the theme file named in the page header above ----
+theme_file <- "themes/dark.scss"
+
+# Reads the colour lines ($bg: #...; $ink: #...; etc.) from the theme file,
+# so the R charts use exactly the same colours as the page.
+read_palette <- function(file) {
+  lines <- readLines(file)
+  m <- regmatches(lines, regexec("^\\$([a-z_]+):\\s*(#[0-9A-Fa-f]{3,8})", lines))
+  m <- m[lengths(m) == 3]
+  setNames(lapply(m, `[`, 3), sapply(m, `[`, 2))
+}
+pal <- read_palette(theme_file)
+
+# draw R charts with a transparent background, so the page (and any
+# pattern in the theme) shows through instead of a coloured box
+knitr::opts_chunk$set(dev.args = list(bg = "transparent"))
+
+headline    <- read.csv("data/headline.csv")
+composition <- read.csv("data/composition.csv")
+incidence   <- read.csv("data/incidence.csv")
+occ_social  <- read.csv("data/occ_social.csv")
+
+# headline number
+h <- function(m) headline$value[headline$measure == m]
+
+# composition share (%) for one category
+cp <- function(storyline, dimension, category) {
+  composition %>%
+    filter(.data$storyline == !!storyline, .data$dimension == !!dimension,
+           .data$category == !!category) %>%
+    pull(share) %>% round()
+}
+
+# composition count (millions) for one category
+cm <- function(storyline, dimension, category) {
+  composition %>%
+    filter(.data$storyline == !!storyline, .data$dimension == !!dimension,
+           .data$category == !!category) %>%
+    pull(workers_m) %>% round()
+}
+
+# incidence: share (%) of a category's workers who are informal
+inc <- function(outcome, dimension, category) {
+  incidence %>%
+    filter(.data$outcome == !!outcome, .data$dimension == !!dimension,
+           .data$category == !!category) %>%
+    pull(share) %>% round()
+}
+```
+
+<!-- =====================================================================
+     SECTION 1: HEADLINE
+     Two trigger paragraphs (ending in @cr-headline) scroll past while the
+     sticky block #cr-headline (the big percentage) stays pinned.
+     ===================================================================== -->
+
+:::: cr-section
+
+India has about **`r round(h("workers_m"))` million workers**.^[Workers are people whose main activity over the past year was work (*usual principal status*). People who worked only in a secondary, subsidiary capacity are not counted, so this total is lower than official figures that include them.] @cr-headline
+
+`r round(h("informal_emp_m"))` million of them, nearly nine in ten, work in **informal jobs**. Informal jobs are employment without a written contract, social security, often without a regular wage. @cr-headline
+
+
+<!-- the sticky: what stays pinned on the right -->
+::: {#cr-headline}
+## `r round(h("informal_emp_share"), 1)`%
+of India's workers have informal jobs
+:::
+
+::::
+
+<!-- =====================================================================
+     INTERLUDE 1 (static text between sections)
+     Ordinary text outside any cr-section, so it does not scroll-trigger.
+     The .interlude class (in shared.scss) keeps it to a readable width.
+     ===================================================================== -->
+
+::: {.interlude}
+
+Informal employment is often pictured as a street vendor or a day labourer. The survey shows something larger. It runs through farms, workshops, offices and homes, and it is not only a feature of informal enterprises. Formal enterprises also hire informal labour. To see where it sits, let us turn every million worker into a single dot.
+:::
+
+<!-- =====================================================================
+     SECTION 2: THE DOTS
+     Each paragraph is a trigger for the sticky #cr-dots. The invisible tag
+     []{step="..."} names the step; the chart reads it to decide how to
+     arrange the dots. Step names must match the entries in `steps` below.
+     ===================================================================== -->
+
+:::: cr-section
+
+<!-- step "all": every worker in one block -->
+Here are all `r round(h("workers_m"))` million of India's workers. **Each dot is one million workers.** Each []{.dot-key .informal} dot is a worker in an informal job; each []{.dot-key .formal} dot, a worker in a formal job. []{step="all"} @cr-dots
+
+<!-- definitions 1: the job -->
+Whether a job is informal depends on the **job itself**. Casual labourers and unpaid family helpers are always counted as informal. A salaried employee is informal if they are not eligible for any social security benefit (provident fund or pension, gratuity, or health and maternity cover), or do not know whether they are. Self-employed people are informal if the business they run is informal, and every self-employed farmer is counted as informal. []{step="all"} @cr-dots
+
+<!-- definitions 2: the enterprise -->
+An **informal enterprise** is slightly different. It describes the **employer**, not the job. Following the official survey reports, it is any business owned by one person or a few partners, rather than a company, cooperative, trust or government body. Crop farms are left out of this definition, but livestock rearing, fishing and forestry are kept in. []{step="all"} @cr-dots
+
+<!-- step "enterprise": dots split by type of enterprise -->
+Sorted by where they work, `r cp("informal_emp", "enterprise", "Informal sector")`% of informal workers are in informal enterprises and `r cp("informal_emp", "enterprise", "Crop agriculture")`% are in crop farming. The rest work in formal enterprises (`r cp("informal_emp", "enterprise", "Formal sector")`%) or as domestic workers in other people's homes. []{step="enterprise"} @cr-dots
+
+<!-- step "formal": formal-enterprise dots highlighted, others faded -->
+A formal employer is no guarantee of a formal job. In government bodies, public sector units, companies, cooperatives and trusts, `r inc("informal_emp", "enterprise", "Formal sector")`% of workers have informal jobs. This is approximately `r cm("informal_emp", "enterprise", "Formal sector")` million people, many of them contract or casual workers with no social security. []{step="formal"} @cr-dots
+
+<!-- step "industry": dots split by broad industry -->
+By industry, agriculture (crops and livestock together) is the largest sector where people are engaged in informal employment. This is followed by Construction (`r inc("informal_emp", "sector8", "Construction")`% informal) and trade, hotels and restaurants (`r inc("informal_emp", "sector8", "Trade, hotels & restaurants")`%). []{step="industry"} @cr-dots
+
+<!-- step "social": dots split by social group -->
+Informality is high in every social group, but not equally. `r inc("informal_emp", "social_grp", "ST")`% of Scheduled Tribe workers and `r inc("informal_emp", "social_grp", "SC")`% of Scheduled Caste workers have informal jobs, compared with `r inc("informal_emp", "social_grp", "Others")`% of workers belonging to the Others social group. []{#dots-social step="social"} @cr-dots
+
+<!-- step "age": dots split by age group -->
+It is highest among the oldest workers: `r inc("informal_emp", "age_grp", "60+")`% of workers over 60 have informal jobs. []{step="age"} @cr-dots
+
+<!-- step "sex": dots split by sex -->
+`r inc("informal_emp", "sex_lbl", "Female")`% of working women have informal jobs, compared with `r inc("informal_emp", "sex_lbl", "Male")`% of working men. Because far more men work, most informal workers are still men. []{step="sex"} @cr-dots
+
+<!-- step "infsec": only informal-enterprise dots stay, split by industry -->
+Next, we take a look at the people working in the **informal enterprises**. This is `r round(h("informal_sector_m"))` million, or `r round(h("informal_sector_share"))`% of all workers outside crop farming. Crop farmers drop out here because the official definition excludes them. The only agriculture activities that is included are livestock, fishing and forestry.  []{step="infsec"} @cr-dots
+
+
+<!-- step "infsec_etyp": informal-enterprise dots split by type of ownership -->
+Almost all of these enterprises have a single owner. `r cp("informal_sector", "etyp_lbl", "Proprietary (female)")`% of their workers are in enterprises owned by a woman. A few dots stay []{.dot-key .formal} showing people with formal jobs inside informal enterprises. []{step="infsec_etyp"} @cr-dots
+
+<!-- the sticky: the dot chart, built with Observable JS (runs in the browser) -->
+::: {#cr-dots}
+
+```{ojs}
+// ---- DATA: one row per dot (1 dot = 1 million workers) ----
+dots = FileAttachment("data/dots.csv").csv({typed: true})
+```
+
+```{ojs}
+// ---- DATA: exact weighted counts, used for the label numbers ----
+joint = FileAttachment("data/joint.csv").csv({typed: true})
+```
+
+```{ojs}
+// ---- SETTINGS: chart size, dot grid, colours ----
+W = 760
+labelW = 240
+cols = 40
+cell = (W - labelW - 10) / cols
+radius = cell * 0.38
+gap = 26
+topPad = 46
+// dot colours come from the theme file (CSS variables --informal and --formal)
+themeColor = name => getComputedStyle(document.documentElement).getPropertyValue(name).trim()
+colInformal = themeColor("--informal") || "#c8553d"
+colFormal = themeColor("--formal") || "#4f7c99"
+// fixed order for the age groups (other groups are sorted largest first)
+ageOrder = ["0-14", "15-29", "30-44", "45-59", "60+"]
+
+// ---- DISPLAY NAMES: friendlier labels shown on the chart ----
+// The data keeps its original category names; this only changes what
+// readers see. Categories not listed here are shown as they are.
+displayName = new Map([
+  ["Informal sector",           "Informal enterprises"],
+  ["Formal sector",             "Formal enterprises"],
+  ["Crop agriculture",          "Crop farming"],
+  ["Household (domestic work)", "Domestic work in households"],
+  ["Other/unknown",             "Other / not known"]
+])
+
+// ---- STEPS: one entry per trigger, same names as the []{step="..."} tags ----
+// group: column to split the dots by (null = one block)
+// mode:  "group" shows all dots, "highlight" fades dots failing `keep`,
+//        "filter" hides dots failing `keep`
+// show:  what the small label under each group name reports, so it matches
+//        the sentence in the text:
+//        "rate"  = share of the group's workers who are informal (default)
+//        "share" = the group's share of ALL informal workers
+//        "count" = group size and its share of the dots on screen
+// names: (optional) display names used only in this step
+steps = ({
+  all:         {group: null,         mode: "group", label: "All workers"},
+  enterprise:  {group: "enterprise", mode: "group", show: "share"},
+  formal:      {group: "enterprise", mode: "highlight", keep: d => d.enterprise === "Formal sector"},
+  industry:    {group: "sector8",    mode: "group"},
+  social:      {group: "social_grp", mode: "group"},
+  age:         {group: "age_grp",    mode: "group", order: ageOrder},
+  sex:         {group: "sex_lbl",    mode: "group"},
+  infsec:      {group: "sector8",    mode: "filter", keep: d => d.informal_sector === 1, show: "count",
+                names: new Map([["Agriculture", "Livestock, fishing & forestry"]])},
+  infsec_etyp: {group: "etyp_lbl",   mode: "filter", keep: d => d.informal_sector === 1, show: "count"}
+})
+```
+
+```{ojs}
+// ---- LAYOUT: where every dot goes for a given step ----
+// Splits the dots into groups, sorts the groups, and places each dot on a
+// grid of `cols` columns. Label numbers come from joint.csv (exact counts).
+function layout(data, step) {
+  const shown = step.mode === "filter" ? data.filter(step.keep) : data;
+  const groups = step.group
+    ? d3.groups(shown, d => d[step.group] ?? "Not classified")
+    : [[step.label, shown]];
+
+  if (step.order) groups.sort((a, b) => step.order.indexOf(a[0]) - step.order.indexOf(b[0]));
+  else groups.sort((a, b) => b[1].length - a[1].length);
+
+  // exact totals for the labels, from joint.csv
+  const jShown = step.mode === "filter" ? joint.filter(step.keep) : joint;
+  const exact = d3.rollup(
+    jShown,
+    v => ({n: d3.sum(v, r => r.Freq), inf: d3.sum(v, r => r.informal_emp === 1 ? r.Freq : 0)}),
+    r => step.group ? (r[step.group] ?? "Not classified") : step.label
+  );
+
+  // totals across everything on screen, for the "share" and "count" labels
+  const totalN   = d3.sum(jShown, r => r.Freq);
+  const totalInf = d3.sum(jShown, r => r.informal_emp === 1 ? r.Freq : 0);
+
+  const pos = new Map();
+  const labels = [];
+  let y = topPad;
+  for (const [key, ds] of groups) {
+    ds.sort((a, b) => d3.descending(a.informal_emp, b.informal_emp) || a.dot_id - b.dot_id);
+    ds.forEach((d, i) => pos.set(d.dot_id, {
+      x: labelW + (i % cols) * cell + cell / 2,
+      y: y + Math.floor(i / cols) * cell + cell / 2
+    }));
+    const ex = exact.get(key);
+    labels.push({
+      key, y,
+      n:        Math.round(ex.n / 1e6),                 // workers in the group (millions)
+      infM:     Math.round(ex.inf / 1e6),               // informal workers in the group (millions)
+      pct:      Math.round(100 * ex.inf / ex.n),        // % of the group who are informal
+      infShare: Math.round(100 * ex.inf / totalInf),    // group's % of all informal workers
+      share:    Math.round(100 * ex.n / totalN)         // group's % of all workers on screen
+    });
+    y += Math.ceil(ds.length / cols) * cell + gap;
+  }
+  return {pos, labels, height: y};
+}
+
+// tallest layout across all steps, so the chart never changes size
+H = d3.max(Object.values(steps), s => layout(dots, s).height)
+```
+
+```{ojs}
+// ---- DRAW: create the chart once (legend, empty label layer, all dots) ----
+chart = {
+  const svg = d3.create("svg")
+    .attr("viewBox", [0, 0, W, H])
+    .style("width", "min(60vw, 900px)")
+    .style("max-height", "88vh");
+
+  const legend = svg.append("g").attr("font-size", 12);
+  [["Informal job", colInformal], ["Formal job", colFormal]].forEach(([txt, col], i) => {
+    legend.append("circle").attr("cx", labelW + i * 130 + 6).attr("cy", 16).attr("r", radius).attr("fill", col);
+    legend.append("text").attr("x", labelW + i * 130 + 16).attr("y", 20).text(txt);
+  });
+
+  svg.append("g").attr("class", "labels");
+
+  const start = layout(dots, steps.all);
+  svg.append("g").attr("class", "dots")
+    .selectAll("circle")
+    .data(dots, d => d.dot_id)
+    .join("circle")
+      .attr("r", radius)
+      .attr("fill", d => d.informal_emp === 1 ? colInformal : colFormal)
+      .attr("cx", d => start.pos.get(d.dot_id).x)
+      .attr("cy", d => start.pos.get(d.dot_id).y);
+
+  return svg.node();
+}
+```
+
+```{ojs}
+// ---- CURRENT STEP: read the step name of the trigger on screen ----
+// crTriggerIndex (from Closeread) counts every trigger on the page, so we
+// look up that trigger and read its []{step="..."} tag instead.
+stepName = {
+  const trigger = document.querySelectorAll(".new-trigger")[crTriggerIndex];
+  const tag = trigger?.querySelector("[step]");
+  return tag ? tag.getAttribute("step") : "all";
+}
+```
+
+```{ojs}
+// ---- ANIMATE: re-runs whenever stepName changes ----
+// Moves each dot to its new position, fades or hides dots, updates labels.
+update = {
+  const step = steps[stepName] ?? steps.all;
+  const L = layout(dots, step);
+  const svg = d3.select(chart);
+  const t = svg.transition().duration(900);
+
+  // move and fade the dots
+  svg.select("g.dots").selectAll("circle")
+    .transition(t)
+    .delay(d => (d.dot_id % 40) * 6)
+    .attr("cx", function(d) { const p = L.pos.get(d.dot_id); return p ? p.x : d3.select(this).attr("cx"); })
+    .attr("cy", function(d) { const p = L.pos.get(d.dot_id); return p ? p.y : d3.select(this).attr("cy"); })
+    .attr("opacity", d =>
+      step.mode === "filter"    ? (step.keep(d) ? 1 : 0) :
+      step.mode === "highlight" ? (step.keep(d) ? 1 : 0.15) : 1);
+
+  // group labels
+  const lab = svg.select("g.labels").selectAll("g.lab")
+    .data(L.labels, d => d.key)
+    .join(
+      enter => {
+        const g = enter.append("g").attr("class", "lab").attr("opacity", 0);
+        g.append("text").attr("class", "name").attr("x", labelW - 12)
+          .attr("text-anchor", "end").attr("font-size", 13).attr("font-weight", 600);
+        g.append("text").attr("class", "sub").attr("x", labelW - 12).attr("dy", 15)
+          .attr("text-anchor", "end").attr("font-size", 11).attr("fill", "#6b7280");
+        return g;
+      },
+      update => update,
+      exit => exit.transition(t).attr("opacity", 0).remove()
+    );
+
+  lab.transition(t).attr("opacity", 1)
+    .attr("transform", d => `translate(0, ${d.y + cell / 2 + 4})`);
+  // group name: a step-specific name first, then the general display name
+  lab.select(".name").text(d => step.names?.get(d.key) ?? displayName.get(d.key) ?? d.key);
+  // the small label: wording depends on the step's `show` setting
+  lab.select(".sub").text(d =>
+    step.show === "share" ? `${d.infShare}% of all informal workers` :
+    step.show === "count" ? `${d.n} million workers · ${d.share}%` :
+                            `${d.n} million · ${d.pct}% informal`);
+
+  return html``;
+}
+```
+
+:::
+
+::::
+
+<!-- =====================================================================
+     INTERLUDE 2 (static text between sections)
+     ===================================================================== -->
+
+::: {.interlude}
+
+Where people work tells only part of the story. The next question is about the jobs themselves. Does a regular salary, or a skilled occupation, protect a worker from informality?
+:::
+
+<!-- =====================================================================
+     SECTION 3: WHO IS MOST LIKELY TO BE INFORMAL? (incidence charts)
+     Static ggplot charts as stickies. Each bar is the share of a group's
+     workers who have informal jobs (from incidence.csv). Two stickies:
+     #cr-status (employment status) and #cr-occupation (occupation).
+     ===================================================================== -->
+
+```{r}
+# ---- CHART THEME: makes ggplot charts match the page ----
+# Colours come from `pal`, which was read from the theme file in SETUP.
+theme_story <- function() {
+  theme_minimal(base_size = 16) +
+    theme(
+      text               = element_text(colour = pal$ink),
+      plot.title         = element_text(face = "bold", size = 19, margin = margin(b = 12)),
+      plot.title.position = "plot",
+      axis.text.y        = element_text(colour = pal$ink, size = 14),
+      axis.text.x        = element_blank(),
+      panel.grid         = element_blank(),
+      plot.background    = element_rect(fill = "transparent", colour = NA),
+      panel.background   = element_rect(fill = "transparent", colour = NA),
+      plot.margin        = margin(16, 24, 16, 16)
+    )
+}
+
+# ---- HELPER: one horizontal bar chart of informality rates ----
+# dim:   which breakdown to plot (a value of the `dimension` column)
+# title: chart title
+# Each bar has a pale "100%" track behind it, so it reads as a share of the whole.
+plot_incidence <- function(dim, title) {
+  incidence %>%
+    filter(outcome == "informal_emp", dimension == dim) %>%
+    mutate(category = reorder(category, share)) %>%
+    ggplot(aes(y = category)) +
+    geom_col(aes(x = 100), fill = pal$muted, alpha = 0.15, width = 0.62) +   # 100% track
+    geom_col(aes(x = share), fill = pal$informal, width = 0.62) +            # the share
+    geom_text(aes(x = share, label = paste0(round(share), "%")),
+              hjust = -0.2, size = 5.2, fontface = "bold", colour = pal$muted) +
+    scale_x_continuous(limits = c(0, 115), expand = c(0, 0)) +
+    labs(x = NULL, y = NULL, title = title) +
+    theme_story()
+}
+```
+
+:::: cr-section
+
+<!-- trigger for #cr-status: introduces the incidence view -->
+The dots showed where informal workers *are*. A different question is who is most *likely* to be informal. By definition, every casual labourer, unpaid helper and informal self-employed worker has an informal job. The open question is salaried work. @cr-status
+
+<!-- trigger for #cr-status: the salaried-workers finding -->
+A regular salary is not protection. `r inc("informal_emp", "emp_status_grp", "Regular wage/salaried")`% of salaried workers, about `r cm("informal_emp", "emp_status_grp", "Regular wage/salaried")` million people, are not eligible for any social security benefit, or do not know whether they are. @cr-status
+
+<!-- trigger for #cr-occupation: the occupation finding -->
+Informal employment is not confined to relatively low-skill work. Even among managers, professionals and technicians which can be considered to be relatively high-skill occupations, `r inc("informal_emp", "occ5", "Managers & professionals")`% have informal jobs. @cr-occupation
+
+<!-- sticky: informality rate by employment status -->
+::: {#cr-status}
+```{r}
+#| fig-width: 8
+#| fig-height: 4.5
+plot_incidence("emp_status_grp", "Share of workers with informal jobs, by employment status")
+```
+:::
+
+<!-- sticky: informality rate by occupation -->
+::: {#cr-occupation}
+```{r}
+#| fig-width: 8
+#| fig-height: 5
+plot_incidence("occ5", "Share of workers with informal jobs, by occupation")
+```
+:::
+
+::::
+
+
+<!-- ======================================================================
+     SECTION 4: OCCUPATION AND SOCIAL GROUP
+     Two static ggplot stickies build from the occ_social.csv:
+     #cr-sorting (Chart A: where each group's workforce are, by occupation)
+     #cr-gaps    (Chart B: informality rate by occupation and social group)
+     ==================================================================== -->
+     
+```{r}
+
+# ---- Settings for the two charts ----
+
+occ_levels <- c("Skilled agriculture", "Elementary (manual labor)", 
+                "Craft & machine operators", "Clerical, sales & service",
+                "Managers & professionals")
+
+grp_levels <- c("ST", "SC", "OBC", "Others")
+
+grp_cols <- c(ST = pal$sg_st, SC = pal$sg_sc, OBC = pal$sg_obc, Others = pal$sg_others)
+min_obs    <- 100   # cells with fewer survey respondents are marked as unreliable
+
+
+# ---- HELPER: quote one number from occ_social.csv in the text ----
+# what: "share_of_group" (chart A) or "informal_rate" (chart B)
+os <- function(occ, grp, what) {
+  occ_social %>%
+    filter(occ5 == occ, social_grp == grp) %>%
+    pull(.data[[what]]) %>% round()
+}
+
+# ---- CHART A: where does each group work? ----
+# One 100% bar per social group, plus an "All workers" reference bar.
+# Occupation colours run from the informal colour (most informal occupation)
+# to the formal colour (least informal), so the bars also hint at risk.
+plot_sorting <- function() {
+  all_row <- occ_social %>%
+    group_by(occ5) %>% summarise(workers_m = sum(workers_m), .groups = "drop") %>%
+    mutate(social_grp = "All workers", share_of_group = 100 * workers_m / sum(workers_m))
+  d <- bind_rows(occ_social, all_row) %>%
+    filter(occ5 %in% occ_levels) %>%
+    mutate(occ5 = factor(occ5, levels = occ_levels),
+           social_grp = factor(social_grp, levels = rev(c("All workers", grp_levels))))
+  occ_cols <- setNames(colorRampPalette(c(pal$informal, pal$muted, pal$formal))(5), occ_levels)
+  ggplot(d, aes(x = share_of_group, y = social_grp, fill = occ5)) +
+    geom_col(width = 0.65, colour = NA) +
+    geom_text(aes(label = ifelse(share_of_group >= 1, paste0(round(share_of_group), "%"), "")),
+              position = position_stack(vjust = 0.5), size = 4, colour = pal$bg, fontface = "bold") +
+    scale_fill_manual(values = occ_cols, name = NULL) +
+    scale_x_continuous(expand = c(0, 0)) +
+    labs(x = NULL, y = NULL, title = "Where each social group works",
+         subtitle = "Share of each group's workers in each occupation") +
+    theme_story() +
+    theme(legend.position = "bottom", legend.text = element_text(colour = pal$ink, size = 12),
+          plot.subtitle = element_text(colour = pal$muted)) +
+    guides(fill = guide_legend(nrow = 2))
+}
+
+# ---- CHART B: within the same occupation, how often is each group informal? ----
+# One row per occupation, one dot per social group; the line spans the gap.
+# Hollow dots = fewer than min_obs survey respondents (treat with caution).
+plot_gaps <- function() {
+  d <- occ_social %>%
+    filter(occ5 %in% occ_levels) %>%
+    mutate(occ5 = factor(occ5, levels = rev(occ_levels)),
+           social_grp = factor(social_grp, levels = grp_levels),
+           reliable = n_obs >= min_obs)
+  ggplot(d, aes(x = informal_rate, y = occ5)) +
+    geom_line(aes(group = occ5), colour = pal$muted, alpha = 0.3, linewidth = 0.8) +
+    geom_point(data = filter(d, reliable),  aes(color = social_grp), size = 5, alpha  = 0.8) +
+    geom_point(data = filter(d, !reliable), aes(colour = social_grp), size = 5,
+               shape = 21, stroke = 1.5, fill = NA) +
+    scale_colour_manual(values = grp_cols, name = NULL) +
+    scale_x_continuous(labels = function(x) paste0(x, "%")) +
+    labs(x = NULL, y = NULL, title = "Rate of informal employment by occupation and social group",
+         subtitle = "Share of each group's workers in that occupation who have informal jobs") +
+    theme_story() +
+    theme(legend.position = "top", legend.text = element_text(colour = pal$ink, size = 12),
+          plot.subtitle = element_text(colour = pal$muted),
+          axis.text.x = element_text(colour = pal$muted),
+          panel.grid.major.x = element_line(colour = pal$muted, linewidth = 0.2))
+}
+
+
+```
+
+
+:::: cr-section
+
+<!-- trigger for #cr-sorting: introduce sorting -->
+Here, we compare the share of each social group in the five broad occupation categories. @cr-sorting
+
+<!-- trigger for #cr-sorting: the finding -->
+`r os("Skilled agriculture", "ST", "share_of_group")`% of ST workers are in skilled agriculture, against `r os("Skilled agriculture", "Others", "share_of_group")`% of workers in the "Others" group. At the same time, people belonging to the "Others" social group have the highest share in occupations such as managers, professionals, clerks, sales and services. People belonging to SC groups are more likely to be engaged in elementary occupations involving manual labor (`r os("Elementary (manual labor)", "SC", "share_of_group")`% of workers). @cr-sorting
+
+<!-- trigger for #cr-sorting: explanation continued -->
+
+We also observe that skilled agriculture accounts for majority of the employment for all social groups, except for SC. In the [informal employment rate by occupation chart](#cr-occupation) we saw that the share of informal employment is higher in skilled agriculture and elementary (manual labor) occupation categories compared to craft & machine operators, managers & professionals and clerical, sales & service. The color coding has been kept the same as the informal ([]{.dot-key .informal}) and formal employment ([]{.dot-key .formal}) used earlier. We can see that marginalized social groups have a relatively higher share of their workforce employed in occupations that have higher informal employment rates. @cr-sorting 
+
+
+<!-- trigger for #cr-gaps: introduce within-occupation gaps -->
+This chart depicts the exact share of people belonging to each social group who are engaged in informal employment across these occupation categories. Compare people *in the same occupation*: each row shows how often each group's workers in that occupation have informal jobs. This figure complements what we found in the previous chart on [sorting by occupation category](#cr-sorting). 
+@cr-gaps
+
+<!-- trigger for #cr-gaps: the finding -->
+All people engaged in skilled agriculture are in informal employment and the dots sit on top of each other. @cr-gaps
+
+<!-- trigger for #cr-gaps: manual work, no gap -->
+In skilled agriculture, everyone is engaged in informal employment. All four dots sit together at the right edge. Manual and craft work look much the same. Irrespective of the social group, these jobs rarely come with a contract or social security. However, SC, ST and OBCs have a relatively higher share of informal employment in these occupation categories compared to the Others group. @cr-gaps
+
+<!-- trigger for #cr-gaps: the surprise -->
+The gaps get wider in the clerical, sales & service and manager and professional cateogories. Interestingly, in the managers and professionals category, the rate of informal employment is lowest among the Scheduled Tribe workers (`r os("Managers & professionals", "ST", "informal_rate")`%), compared with `r os("Managers & professionals", "Others", "informal_rate")`% in the "Others" group. In clerical, sales and service work, ST workers again have the lowest rate (`r os("Clerical, sales & service", "ST", "informal_rate")`%). However, informal employment in the clerical, sales & service category is highest among OBC groups, followed by SC and Others.  @cr-gaps
+
+<!-- trigger for #cr-gaps: a likely explanation -->
+A likely reason is *where* these jobs are. Seats in government jobs are reserved for SC and ST candidates, so a larger share of the few ST workers in white-collar work are probably government teachers, clerks and officers, and government jobs nearly always come with social security. "Others" in the same occupations are spread more widely across private firms and their own businesses, where informal arrangements are common. @cr-gaps
+
+<!-- trigger for #cr-gaps: the caveat that keeps it honest -->
+This is not a sign that ST workers are better off. Very few of them reach these occupations at all, and overall they remain the most informal group of all: `r inc("informal_emp", "social_grp", "ST")`% have informal jobs (see [this chart](#dots-social)). @cr-gaps
+
+<!-- sticky: chart A -->
+::: {#cr-sorting}
+```{r}
+#| fig-width: 9
+#| fig-height: 5.5
+plot_sorting()
+```
+:::
+
+<!-- sticky: chart B -->
+::: {#cr-gaps}
+```{r}
+#| fig-width: 9
+#| fig-height: 5
+plot_gaps()
+```
+:::
+
+::::
+
+
+<!-- =====================================================================
+     SECTION 5: ABOUT THE DATA (ordinary text, no scrolling effects)
+     Outside any cr-section, so it reads like a normal web page.
+     ===================================================================== -->
+
+## About the data
+
+**Source.** Periodic Labour Force Survey (PLFS), calendar year 2025, Ministry of Statistics and Programme Implementation. All figures are weighted to the population.
+
+**Workers.** People whose main activity over the past year was work (usual principal status). People who worked only in a subsidiary capacity are not counted, so totals are lower than official figures that include them.
+
+**Informal job (informal employment).** Defined for the job, following the ILO framework. Casual labourers and unpaid family helpers are always informal. Regular wage/salaried employees are informal if they are not eligible for any social security benefit (provident fund/pension, gratuity, or health care and maternity benefits); employees who did not know are also counted as informal. Own-account workers and employers are informal if their enterprise is informal; all self-employed workers in crop farming are counted as informal. Crop farming is included in this measure.
+
+**Informal enterprise (informal sector).** Defined for the employer. Following the PLFS reports, proprietary and partnership enterprises are treated as informal; government bodies, public sector units, autonomous bodies, companies, cooperatives and trusts are formal. Households employing domestic workers are a separate category. Crop farming (NIC-2008 groups 011, 012, 013 and 015: growing crops, plant propagation and mixed farming) is excluded, so informal-sector shares are shares of workers outside crop farming. Livestock, fishing and forestry are included.
+
+**Agriculture in the two measures.** Crop farmers are counted in the informal-job figures but not in the informal-enterprise figures. In the industry breakdown, "Agriculture" covers crops, livestock, fishing and forestry; in the informal-enterprise breakdown it covers only livestock, fishing and forestry, and is labelled that way.
+
+**The dots.** Each dot represents one million workers. Weighted counts are converted to dots by cumulative rounding, so the dot picture is approximate; the numbers in the text and labels come from the exact weighted estimates.
+
+**Caveats.** Estimates for very small groups (for example, transgender workers and workers under 15) rest on few survey records and are not shown separately. Population totals implied by PLFS weights tend to be lower than official projections, so absolute numbers are conservative; shares are unaffected.

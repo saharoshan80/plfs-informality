@@ -1,0 +1,54 @@
+/*-- scss:defaults --*/
+
+// =====================================================================
+// THEME: Blueprint
+// Engineering blueprint: deep blue with a white grid, chalk-white text,
+// yellow and sky-blue marks.
+// =====================================================================
+
+// ---- FONTS (loaded from Google Fonts) ----
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Archivo:wght@400;600;800&display=swap');
+
+// ---- COLOURS ----
+$bg:       #0d3b78;   // page background
+$panel:    #0a315f;   // panel behind the narrative text
+$ink:      #f2f6ff;   // main text
+$muted:    #a9c1e6;   // secondary text (labels, captions)
+$informal: #ffd23f;   // informal jobs
+$formal:   #8fd3ff;   // formal jobs
+
+// ---- FONT NAMES ----
+$font-body:     "Archivo", system-ui, sans-serif;
+$font-headings: "Space Mono", ui-monospace, monospace;
+
+// ---- Bootstrap/Quarto settings that use the colours and fonts ----
+$body-bg: $bg;
+$body-color: $ink;
+$link-color: $informal;
+$font-family-sans-serif: $font-body;
+$headings-font-family: $font-headings;
+$headings-color: $ink;
+
+/*-- scss:rules --*/
+
+// ---- EXTRA: blueprint grid behind the visuals ----
+// Two sets of thin lines (fine every 24px, bold every 120px).
+.cr-section .sticky-col {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.14) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.14) 1px, transparent 1px),
+    linear-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+  background-size: 120px 120px, 120px 120px, 24px 24px, 24px 24px;
+}
+
+// ---- EXTRA: dashed "drawing" frame around each text step ----
+.cr-section .narrative-col .trigger .narrative {
+  border: 1px dashed rgba(255, 255, 255, 0.45);
+  border-radius: 4px;
+}
+#cr-headline h2 { font-weight: 700; letter-spacing: -0.04em; }
+
+// navbar and title area follow the dark background
+.navbar, #title-block-header { background-color: $bg !important; }
+.navbar .navbar-brand, .navbar .nav-link { color: $ink !important; }

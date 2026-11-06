@@ -1,0 +1,19 @@
+# Quarto build output (published separately)
+/_site/
+/.quarto/
+*_files/
+
+# RStudio and R session files
+.Rproj.user/
+.Rhistory
+.RData
+.Rdata
+
+# PLFS unit-level data: never upload
+*.dta
+*.rds
+raw/
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto

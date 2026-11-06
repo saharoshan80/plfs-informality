@@ -1,0 +1,124 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+// =====================================================================
+// SHARED RULES: used by every theme. They only refer to the colour and
+// font variables ($bg, $ink, $informal, $font-body ...), which each theme
+// file defines, so the same rules restyle the page for any theme.
+// =====================================================================
+
+// ---- COLOURS AS CSS VARIABLES (the dot chart reads these) ----
+:root {
+  --bg: #{$bg};
+  --ink: #{$ink};
+  --muted: #{$muted};
+  --informal: #{$informal};
+  --formal: #{$formal};
+}
+
+// ---- CLOSEREAD COLOURS AND FONTS ----
+// Closeread styles its sections with its own --cr-... variables.
+// Setting them here (instead of under cr-style: in the page header)
+// keeps the whole look inside the theme files.
+.cr-section {
+  --cr-section-background-color: #{$bg};
+  --cr-narrative-background-color-sidebar: #{$panel};
+  --cr-narrative-text-color-sidebar: #{$ink};
+  --cr-narrative-background-color-overlay: #{rgba($panel, 0.95)};
+  --cr-narrative-text-color-overlay: #{$ink};
+  --cr-narrative-font-family: #{$font-body};
+  --cr-narrative-font-size: 1.2rem;
+}
+
+// ---- PAGE TITLE ----
+.quarto-title h1.title {
+  font-size: clamp(2.2rem, 5vw, 3.6rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+// ---- HEADLINE NUMBER (the big percentage in section 1) ----
+#cr-headline h2 {
+  font-family: $font-headings;
+  font-size: clamp(5rem, 14vw, 10rem);
+  font-weight: 700;
+  line-height: 1;
+  color: $informal;
+  border-bottom: none;     // Quarto underlines h2 headings by default
+  margin-bottom: 0.2em;
+}
+#cr-headline p {
+  font-size: 1.5rem;
+  color: $muted;
+  max-width: 22ch;
+}
+
+// ---- DOT CHART TEXT ----
+#cr-dots svg text       { fill: $ink; font-family: $font-body; }
+#cr-dots svg text.sub   { fill: $muted; }
+
+// ---- "ABOUT THE DATA" ----
+#about-the-data {
+  max-width: 70ch;
+  margin: 4rem auto;
+  font-size: 0.95rem;
+  color: $muted;
+}
+#about-the-data h2 {
+  color: $ink;
+  border-bottom: 1px solid $panel;
+}
+
+// ---- HIDE COMMENT-ONLY BLOCKS ----
+// Closeread turns every block inside a cr-section into a scroll step,
+// including our <!-- comments -->. Those empty steps show up as blank
+// boxes and add extra scrolling. Real triggers (paragraphs ending in
+// @cr-...) have the class "new-trigger"; this hides everything else.
+.cr-section .narrative-col .trigger:not(.new-trigger) {
+  display: none;
+}
+
+
+
+
+// ---- INTERLUDES: static text between scrolling sections ----
+// ::: {.interlude} blocks in index.qmd. Centred, readable width, generous
+// space above and below so they read as a pause between sections.
+.interlude {
+  max-width: 62ch;
+  margin: 6rem auto;
+  padding: 0 1.5rem;
+  font-size: 1.3rem;
+  line-height: 1.6;
+  color: $ink;
+}
+.interlude p:first-child::first-letter {
+  font-family: $font-headings;
+  font-size: 3.2em;
+  float: left;
+  line-height: 0.9;
+  margin: 0.08em 0.12em 0 0;
+  color: $informal;
+}
+
+// ---- TITLE BLOCK: subtitle, author and date ----
+.quarto-title .subtitle { color: $muted; font-size: 1.3rem; }
+.quarto-title-meta-heading { color: $muted; }
+.quarto-title-meta-contents { color: $ink; }
+
+
+
+// ---- DOT KEYS IN THE TEXT ----
+// []{.dot-key .informal} in index.qmd draws a small filled circle in the
+// informal colour (and .formal in the formal colour), matching the chart.
+.dot-key {
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  border-radius: 50%;
+  vertical-align: 0.02em;
+  margin-right: 0.15em;
+}
+.dot-key.informal { background-color: $informal; }
+.dot-key.formal   { background-color: $formal; }

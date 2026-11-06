@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+
+// =====================================================================
+// THEME: Risograph print
+// Off-white paper, fluorescent pink and riso blue, typewriter text. Like a zine.
+// =====================================================================
+
+// ---- FONTS (loaded from Google Fonts) ----
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+// ---- COLOURS ----
+$bg:       #f4f1ea;   // page background
+$panel:    #ece6da;   // panel behind the narrative text
+$ink:      #1d2a6b;   // main text
+$muted:    #5b6390;   // secondary text (labels, captions)
+$informal: #ff4f7b;   // informal jobs
+$formal:   #2c6fd6;   // formal jobs
+
+// ---- FONT NAMES ----
+$font-body:     "IBM Plex Mono", ui-monospace, monospace;
+$font-headings: "Archivo Black", Impact, sans-serif;
+
+// ---- Bootstrap/Quarto settings that use the colours and fonts ----
+$body-bg: $bg;
+$body-color: $ink;
+$link-color: $informal;
+$font-family-sans-serif: $font-body;
+$headings-font-family: $font-headings;
+$headings-color: $ink;
+
+/*-- scss:rules --*/
+
+// ---- EXTRA: fine halftone dots over the whole page, like riso ink ----
+// A tiny repeating dot pattern. pointer-events: none so it never blocks
+// scrolling or clicking.
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  background-image: radial-gradient(rgba($ink, 0.09) 1px, transparent 1.2px);
+  background-size: 4px 4px;
+}
+
+// ---- EXTRA: misregistered two-colour headline, like a riso print ----
+#cr-headline h2 {
+  color: $informal;
+  text-shadow: 5px 4px 0 rgba($formal, 0.75);
+  font-weight: 400;
+}
+.quarto-title h1.title { text-transform: uppercase; letter-spacing: 0.02em; }
+
+// monospace letters are wider, so shrink the dot-chart group names a little
+#cr-dots svg text.name { font-size: 11px; }

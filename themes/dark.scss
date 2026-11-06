@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+// =====================================================================
+// THEME: Dark and dramatic
+// Near-black background, glowing amber and cyan dots, serif headline.
+// =====================================================================
+
+// ---- FONTS (loaded from Google Fonts) ----
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;600;700&display=swap');
+
+// ---- COLOURS ----
+$bg:       #0f1115;   // page background
+$panel:    #171a21;   // panel behind the narrative text
+$ink:      #e9e6e1;   // main text
+$muted:    #9a9ea6;   // secondary text (labels, captions)
+$informal: #b2df8a;   // informal jobs
+$formal:   #1f78b4;   // formal jobs
+
+// ---- SOCIAL GROUP COLOURS (used by the occupation x social group charts) ----
+$sg_st:     #ff7b72;
+$sg_sc:     #ffd166;
+$sg_obc:    #7ee081;
+$sg_others: #9db4ff;
+
+// ---- FONT NAMES ----
+$font-body:     "Inter", system-ui, sans-serif;
+$font-headings: "DM Serif Display", Georgia, serif;
+
+// ---- Bootstrap/Quarto settings that use the colours and fonts ----
+$body-bg: $bg;
+$body-color: $ink;
+$link-color: $informal;
+$font-family-sans-serif: $font-body;
+$headings-font-family: $font-headings;
+$headings-color: $ink;
+
+/*-- scss:rules --*/
+
+// ---- EXTRA: soft glow on the headline number and the dots ----
+#cr-headline h2 { text-shadow: 0 0 40px rgba($informal, 0.35); font-weight: 400; }
+#cr-dots svg circle { filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.15)); }
+
+// navbar and title area follow the dark background
+.navbar, #title-block-header { background-color: $bg !important; }
+.navbar .navbar-brand, .navbar .nav-link { color: $ink !important; }
+

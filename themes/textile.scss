@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+
+// =====================================================================
+// THEME: Indigo and turmeric
+// Inspired by Indian block-print textiles: indigo ink, madder red,
+// turmeric borders on cotton.
+// =====================================================================
+
+// ---- FONTS (loaded from Google Fonts) ----
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&family=Alegreya+Sans:wght@400;500;700&display=swap');
+
+// ---- COLOURS ----
+$bg:       #fbf4e4;   // page background
+$panel:    #f3e3bd;   // panel behind the narrative text
+$ink:      #1f2a5c;   // main text
+$muted:    #5a6188;   // secondary text (labels, captions)
+$informal: #b23a32;   // informal jobs
+$formal:   #2f4f9e;   // formal jobs
+
+// ---- FONT NAMES ----
+$font-body:     "Alegreya Sans", system-ui, sans-serif;
+$font-headings: "Yeseva One", Georgia, serif;
+
+// ---- Bootstrap/Quarto settings that use the colours and fonts ----
+$body-bg: $bg;
+$body-color: $ink;
+$link-color: $informal;
+$font-family-sans-serif: $font-body;
+$headings-font-family: $font-headings;
+$headings-color: $ink;
+
+/*-- scss:rules --*/
+
+// ---- EXTRA: block-print border down the text column ----
+// A repeating diagonal stripe in three colours, like a printed textile border.
+.cr-section .narrative-col {
+  border-right: 10px solid transparent;
+  border-image: repeating-linear-gradient(45deg, $informal 0 6px, #e1a42b 6px 12px, $ink 12px 18px) 10;
+}
+
+// ---- EXTRA: turmeric underline under the headline number ----
+#cr-headline h2 {
+  color: $informal;
+  font-weight: 400;
+  padding-bottom: 0.1em;
+  border-bottom: 8px dotted #e1a42b !important;
+  display: inline-block;
+}

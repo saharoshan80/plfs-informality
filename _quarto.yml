@@ -1,0 +1,10 @@
+project:
+  type: website
+
+website:
+  title: "India's informal workforce"
+
+execute:
+  echo: false
+  warning: false
+  message: false
