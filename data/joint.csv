@@ -1,0 +1,2053 @@
+"informal_emp","informal_sector","enterprise","sector8","etyp_lbl","age_grp","sex_lbl","social_grp","Freq"
+0,0,"Formal sector","Agriculture",,"15-29","Female","OBC",4177.06
+0,0,"Formal sector","Agriculture",,"15-29","Female","Others",294.34
+0,0,"Formal sector","Agriculture",,"15-29","Female","SC",312.75
+0,0,"Formal sector","Agriculture",,"15-29","Female","ST",270.59
+0,0,"Formal sector","Agriculture",,"15-29","Male","OBC",7258.21
+0,0,"Formal sector","Agriculture",,"15-29","Male","Others",5036.61
+0,0,"Formal sector","Agriculture",,"15-29","Male","SC",3075.68
+0,0,"Formal sector","Agriculture",,"15-29","Male","ST",3440.36
+0,0,"Formal sector","Agriculture",,"30-44","Female","OBC",14591.28
+0,0,"Formal sector","Agriculture",,"30-44","Female","Others",1911
+0,0,"Formal sector","Agriculture",,"30-44","Female","ST",6200.15
+0,0,"Formal sector","Agriculture",,"30-44","Male","OBC",32788.79
+0,0,"Formal sector","Agriculture",,"30-44","Male","Others",35781.71
+0,0,"Formal sector","Agriculture",,"30-44","Male","SC",10676.07
+0,0,"Formal sector","Agriculture",,"30-44","Male","ST",13890.57
+0,0,"Formal sector","Agriculture",,"45-59","Female","OBC",1675.91
+0,0,"Formal sector","Agriculture",,"45-59","Female","Others",846.5
+0,0,"Formal sector","Agriculture",,"45-59","Female","SC",451.25
+0,0,"Formal sector","Agriculture",,"45-59","Female","ST",1187.84
+0,0,"Formal sector","Agriculture",,"45-59","Male","OBC",18861.35
+0,0,"Formal sector","Agriculture",,"45-59","Male","Others",26941.75
+0,0,"Formal sector","Agriculture",,"45-59","Male","SC",11118.27
+0,0,"Formal sector","Agriculture",,"45-59","Male","ST",8165.38
+0,0,"Formal sector","Agriculture",,"60+","Female","OBC",140.67
+0,0,"Formal sector","Agriculture",,"60+","Male","OBC",908.33
+0,0,"Formal sector","Agriculture",,"60+","Male","Others",3082.83
+0,0,"Formal sector","Agriculture",,"60+","Male","SC",757.5
+0,0,"Formal sector","Agriculture",,"60+","Male","ST",167.27
+0,0,"Formal sector","Construction",,"15-29","Female","OBC",9083.97
+0,0,"Formal sector","Construction",,"15-29","Female","Others",6414.58
+0,0,"Formal sector","Construction",,"15-29","Female","SC",3632.92
+0,0,"Formal sector","Construction",,"15-29","Female","ST",77.92
+0,0,"Formal sector","Construction",,"15-29","Male","OBC",122565.21
+0,0,"Formal sector","Construction",,"15-29","Male","Others",81223.15
+0,0,"Formal sector","Construction",,"15-29","Male","SC",58421.72
+0,0,"Formal sector","Construction",,"15-29","Male","ST",6580.62
+0,0,"Formal sector","Construction",,"30-44","Female","OBC",16560.26
+0,0,"Formal sector","Construction",,"30-44","Female","Others",10758.86
+0,0,"Formal sector","Construction",,"30-44","Female","SC",10039.1
+0,0,"Formal sector","Construction",,"30-44","Female","ST",3487.23
+0,0,"Formal sector","Construction",,"30-44","Male","OBC",182697.7
+0,0,"Formal sector","Construction",,"30-44","Male","Others",123580.74
+0,0,"Formal sector","Construction",,"30-44","Male","SC",55804.57
+0,0,"Formal sector","Construction",,"30-44","Male","ST",18641.21
+0,0,"Formal sector","Construction",,"45-59","Female","OBC",2291.71
+0,0,"Formal sector","Construction",,"45-59","Female","Others",6702.27
+0,0,"Formal sector","Construction",,"45-59","Female","SC",482.09
+0,0,"Formal sector","Construction",,"45-59","Female","ST",1274.56
+0,0,"Formal sector","Construction",,"45-59","Male","OBC",90075.39
+0,0,"Formal sector","Construction",,"45-59","Male","Others",91352.05
+0,0,"Formal sector","Construction",,"45-59","Male","SC",37222.14
+0,0,"Formal sector","Construction",,"45-59","Male","ST",12996.78
+0,0,"Formal sector","Construction",,"60+","Female","Others",1092.67
+0,0,"Formal sector","Construction",,"60+","Male","OBC",3911.2
+0,0,"Formal sector","Construction",,"60+","Male","Others",13346.7
+0,0,"Formal sector","Construction",,"60+","Male","SC",1691.75
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Female","OBC",11233.8
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Female","Others",13850
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Female","SC",4100.23
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Female","ST",2646
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Male","OBC",132250.51
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Male","Others",47790.03
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Male","SC",61201.44
+0,0,"Formal sector","Electricity, gas, water",,"15-29","Male","ST",15138.9
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Female","OBC",25090.83
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Female","Others",14970.26
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Female","SC",15486.49
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Female","ST",6052.71
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Male","OBC",286179.32
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Male","Others",165560.77
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Male","SC",109352.89
+0,0,"Formal sector","Electricity, gas, water",,"30-44","Male","ST",38192.26
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Female","OBC",10888.71
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Female","Others",12790.45
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Female","SC",12214.47
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Female","ST",4754.64
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Male","OBC",221996.16
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Male","Others",205001.75
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Male","SC",89635.18
+0,0,"Formal sector","Electricity, gas, water",,"45-59","Male","ST",31264.2
+0,0,"Formal sector","Electricity, gas, water",,"60+","Female","SC",2030
+0,0,"Formal sector","Electricity, gas, water",,"60+","Male","OBC",6509.95
+0,0,"Formal sector","Electricity, gas, water",,"60+","Male","Others",6025.1
+0,0,"Formal sector","Electricity, gas, water",,"60+","Male","SC",1090.92
+0,0,"Formal sector","Electricity, gas, water",,"60+","Male","ST",1133.02
+0,0,"Formal sector","Manufacturing",,"15-29","Female","OBC",219995.54
+0,0,"Formal sector","Manufacturing",,"15-29","Female","Others",137438.63
+0,0,"Formal sector","Manufacturing",,"15-29","Female","SC",101414.86
+0,0,"Formal sector","Manufacturing",,"15-29","Female","ST",46819.22
+0,0,"Formal sector","Manufacturing",,"15-29","Male","OBC",1336973.23
+0,0,"Formal sector","Manufacturing",,"15-29","Male","Others",898237.77
+0,0,"Formal sector","Manufacturing",,"15-29","Male","SC",621391.23
+0,0,"Formal sector","Manufacturing",,"15-29","Male","ST",260503.06
+0,0,"Formal sector","Manufacturing",,"30-44","Female","OBC",304749.9
+0,0,"Formal sector","Manufacturing",,"30-44","Female","Others",155973.93
+0,0,"Formal sector","Manufacturing",,"30-44","Female","SC",193549.69
+0,0,"Formal sector","Manufacturing",,"30-44","Female","ST",27594.94
+0,0,"Formal sector","Manufacturing",,"30-44","Male","OBC",1898135.61
+0,0,"Formal sector","Manufacturing",,"30-44","Male","Others",1667283.39
+0,0,"Formal sector","Manufacturing",,"30-44","Male","SC",801229.49
+0,0,"Formal sector","Manufacturing",,"30-44","Male","ST",227678.68
+0,0,"Formal sector","Manufacturing",,"45-59","Female","OBC",108265.46
+0,0,"Formal sector","Manufacturing",,"45-59","Female","Others",57481.63
+0,0,"Formal sector","Manufacturing",,"45-59","Female","SC",55776.27
+0,0,"Formal sector","Manufacturing",,"45-59","Female","ST",4736.43
+0,0,"Formal sector","Manufacturing",,"45-59","Male","OBC",780444.13
+0,0,"Formal sector","Manufacturing",,"45-59","Male","Others",959332.48
+0,0,"Formal sector","Manufacturing",,"45-59","Male","SC",327319.6
+0,0,"Formal sector","Manufacturing",,"45-59","Male","ST",106202.04
+0,0,"Formal sector","Manufacturing",,"60+","Female","OBC",2890.5
+0,0,"Formal sector","Manufacturing",,"60+","Female","Others",5086.26
+0,0,"Formal sector","Manufacturing",,"60+","Male","OBC",38647.84
+0,0,"Formal sector","Manufacturing",,"60+","Male","Others",69596.25
+0,0,"Formal sector","Manufacturing",,"60+","Male","SC",17610.11
+0,0,"Formal sector","Manufacturing",,"60+","Male","ST",3957.33
+0,0,"Formal sector","Mining & quarrying",,"15-29","Female","OBC",883.16
+0,0,"Formal sector","Mining & quarrying",,"15-29","Female","SC",520.44
+0,0,"Formal sector","Mining & quarrying",,"15-29","Female","ST",730.25
+0,0,"Formal sector","Mining & quarrying",,"15-29","Male","OBC",37150.53
+0,0,"Formal sector","Mining & quarrying",,"15-29","Male","Others",18095.58
+0,0,"Formal sector","Mining & quarrying",,"15-29","Male","SC",8220.71
+0,0,"Formal sector","Mining & quarrying",,"15-29","Male","ST",15641.28
+0,0,"Formal sector","Mining & quarrying",,"30-44","Female","OBC",4047.27
+0,0,"Formal sector","Mining & quarrying",,"30-44","Female","Others",1158.35
+0,0,"Formal sector","Mining & quarrying",,"30-44","Female","SC",926.09
+0,0,"Formal sector","Mining & quarrying",,"30-44","Female","ST",2240.23
+0,0,"Formal sector","Mining & quarrying",,"30-44","Male","OBC",98833.35
+0,0,"Formal sector","Mining & quarrying",,"30-44","Male","Others",44117.41
+0,0,"Formal sector","Mining & quarrying",,"30-44","Male","SC",42082.3
+0,0,"Formal sector","Mining & quarrying",,"30-44","Male","ST",26128.48
+0,0,"Formal sector","Mining & quarrying",,"45-59","Female","OBC",3272.09
+0,0,"Formal sector","Mining & quarrying",,"45-59","Female","SC",2181.63
+0,0,"Formal sector","Mining & quarrying",,"45-59","Female","ST",6445.28
+0,0,"Formal sector","Mining & quarrying",,"45-59","Male","OBC",74387.41
+0,0,"Formal sector","Mining & quarrying",,"45-59","Male","Others",38358.44
+0,0,"Formal sector","Mining & quarrying",,"45-59","Male","SC",21371.38
+0,0,"Formal sector","Mining & quarrying",,"45-59","Male","ST",24793.17
+0,0,"Formal sector","Mining & quarrying",,"60+","Female","OBC",944.92
+0,0,"Formal sector","Mining & quarrying",,"60+","Male","OBC",1000.59
+0,0,"Formal sector","Mining & quarrying",,"60+","Male","Others",305.71
+0,0,"Formal sector","Mining & quarrying",,"60+","Male","ST",444.89
+0,0,"Formal sector","Other services",,"15-29","Female","OBC",699318.48
+0,0,"Formal sector","Other services",,"15-29","Female","Others",586776.84
+0,0,"Formal sector","Other services",,"15-29","Female","SC",296507.29
+0,0,"Formal sector","Other services",,"15-29","Female","ST",122525.9
+0,0,"Formal sector","Other services",,"15-29","Male","OBC",1180897.69
+0,0,"Formal sector","Other services",,"15-29","Male","Others",1063026.48
+0,0,"Formal sector","Other services",,"15-29","Male","SC",494149.45
+0,0,"Formal sector","Other services",,"15-29","Male","ST",182242.4
+0,0,"Formal sector","Other services",,"30-44","Female","OBC",1491270.33
+0,0,"Formal sector","Other services",,"30-44","Female","Others",1309992.99
+0,0,"Formal sector","Other services",,"30-44","Female","SC",638779.24
+0,0,"Formal sector","Other services",,"30-44","Female","ST",354791.07
+0,0,"Formal sector","Other services",,"30-44","Male","OBC",3013732.04
+0,0,"Formal sector","Other services",,"30-44","Male","Others",2659421.09
+0,0,"Formal sector","Other services",,"30-44","Male","SC",1226082.63
+0,0,"Formal sector","Other services",,"30-44","Male","ST",624463.27
+0,0,"Formal sector","Other services",,"45-59","Female","OBC",998271.14
+0,0,"Formal sector","Other services",,"45-59","Female","Others",942926.61
+0,0,"Formal sector","Other services",,"45-59","Female","SC",376251.08
+0,0,"Formal sector","Other services",,"45-59","Female","ST",162565.02
+0,0,"Formal sector","Other services",,"45-59","Male","OBC",2019973.02
+0,0,"Formal sector","Other services",,"45-59","Male","Others",1907504.71
+0,0,"Formal sector","Other services",,"45-59","Male","SC",940613.79
+0,0,"Formal sector","Other services",,"45-59","Male","ST",419678.73
+0,0,"Formal sector","Other services",,"60+","Female","OBC",24628.42
+0,0,"Formal sector","Other services",,"60+","Female","Others",29833.28
+0,0,"Formal sector","Other services",,"60+","Female","SC",20864.17
+0,0,"Formal sector","Other services",,"60+","Female","ST",1152.72
+0,0,"Formal sector","Other services",,"60+","Male","OBC",70215.92
+0,0,"Formal sector","Other services",,"60+","Male","Others",113900.13
+0,0,"Formal sector","Other services",,"60+","Male","SC",39797.6
+0,0,"Formal sector","Other services",,"60+","Male","ST",13318.14
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","OBC",80747.36
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","Others",77592.74
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","SC",36984.64
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","ST",7499.57
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","OBC",295824.92
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","Others",262137.46
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","SC",132409.58
+0,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","ST",25406.94
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","OBC",63322.58
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","Others",75035.87
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","SC",17132.26
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","ST",4887.34
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","OBC",445309.97
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","Others",363475.1
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","SC",169293.61
+0,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","ST",12693.68
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","OBC",26015.34
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","Others",18067.02
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","SC",10602.16
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","ST",658.48
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","OBC",130511.12
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","Others",155629.6
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","SC",61968.6
+0,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","ST",10509.22
+0,0,"Formal sector","Trade, hotels & restaurants",,"60+","Female","OBC",994.15
+0,0,"Formal sector","Trade, hotels & restaurants",,"60+","Female","Others",77.6
+0,0,"Formal sector","Trade, hotels & restaurants",,"60+","Female","SC",502.75
+0,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","OBC",9542.96
+0,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","Others",11423.17
+0,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","ST",134.9
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Female","OBC",399935.26
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Female","Others",400176.69
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Female","SC",53804.8
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Female","ST",8134.99
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Male","OBC",958846.69
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Male","Others",867776.78
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Male","SC",175487.88
+0,0,"Formal sector","Transport, storage & communication",,"15-29","Male","ST",85703.99
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Female","OBC",266151.63
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Female","Others",314506.38
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Female","SC",36545.63
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Female","ST",26832.99
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Male","OBC",1167253.27
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Male","Others",1141670.53
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Male","SC",286466.54
+0,0,"Formal sector","Transport, storage & communication",,"30-44","Male","ST",77588.23
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Female","OBC",39777.7
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Female","Others",44991.4
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Female","SC",10470.76
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Female","ST",719.15
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Male","OBC",436462.82
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Male","Others",441549.83
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Male","SC",107576.8
+0,0,"Formal sector","Transport, storage & communication",,"45-59","Male","ST",31161.1
+0,0,"Formal sector","Transport, storage & communication",,"60+","Female","OBC",2299.05
+0,0,"Formal sector","Transport, storage & communication",,"60+","Female","Others",3643.81
+0,0,"Formal sector","Transport, storage & communication",,"60+","Female","SC",5309.42
+0,0,"Formal sector","Transport, storage & communication",,"60+","Male","OBC",18368.2
+0,0,"Formal sector","Transport, storage & communication",,"60+","Male","Others",17169.07
+0,0,"Formal sector","Transport, storage & communication",,"60+","Male","SC",4775.78
+0,0,"Formal sector","Transport, storage & communication",,"60+","Male","ST",8768.88
+0,0,"Household (domestic work)","Other services",,"15-29","Female","OBC",858.5
+0,0,"Household (domestic work)","Other services",,"15-29","Female","Others",1230.52
+0,0,"Household (domestic work)","Other services",,"15-29","Female","ST",184.63
+0,0,"Household (domestic work)","Other services",,"15-29","Male","OBC",931.5
+0,0,"Household (domestic work)","Other services",,"15-29","Male","SC",2358.33
+0,0,"Household (domestic work)","Other services",,"15-29","Male","ST",184.63
+0,0,"Household (domestic work)","Other services",,"30-44","Male","OBC",7882.98
+0,0,"Household (domestic work)","Other services",,"30-44","Male","Others",1942.17
+0,0,"Household (domestic work)","Other services",,"45-59","Female","Others",46
+0,0,"Household (domestic work)","Other services",,"45-59","Male","OBC",3422.72
+0,0,"Household (domestic work)","Other services",,"45-59","Male","Others",664.5
+0,0,"Household (domestic work)","Other services",,"45-59","Male","SC",2835
+0,0,"Household (domestic work)","Other services",,"45-59","Male","ST",467.5
+0,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Female","Others",122.08
+0,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Female","OBC",2545.33
+0,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Female","SC",622.98
+0,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Male","OBC",742.73
+0,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Male","ST",86.08
+0,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","OBC",4423.92
+0,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","Others",203.27
+0,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","SC",1626.4
+0,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","ST",159.38
+0,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Male","OBC",1080
+0,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Male","Others",1457.75
+0,1,"Informal sector","Construction","Partnership (different households)","30-44","Male","OBC",3068.16
+0,1,"Informal sector","Construction","Partnership (different households)","30-44","Male","SC",793.11
+0,1,"Informal sector","Construction","Proprietary (female)","15-29","Female","OBC",99.27
+0,1,"Informal sector","Construction","Proprietary (female)","15-29","Female","SC",1864.54
+0,1,"Informal sector","Construction","Proprietary (female)","30-44","Female","OBC",203
+0,1,"Informal sector","Construction","Proprietary (male)","15-29","Female","OBC",1456.55
+0,1,"Informal sector","Construction","Proprietary (male)","15-29","Female","SC",24
+0,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","OBC",31670.39
+0,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","Others",18614.58
+0,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","SC",9405.34
+0,1,"Informal sector","Construction","Proprietary (male)","30-44","Female","OBC",3057
+0,1,"Informal sector","Construction","Proprietary (male)","30-44","Female","Others",332.33
+0,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","OBC",33766.83
+0,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","Others",35245.16
+0,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","SC",10260.71
+0,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","ST",90
+0,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","OBC",7826.19
+0,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","Others",12927.41
+0,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","SC",2425.5
+0,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","ST",1689.58
+0,1,"Informal sector","Construction","Proprietary (male)","60+","Male","OBC",4773.36
+0,1,"Informal sector","Construction","Proprietary (male)","60+","Male","Others",1647.75
+0,1,"Informal sector","Electricity, gas, water","Partnership (different households)","15-29","Male","Others",821.11
+0,1,"Informal sector","Electricity, gas, water","Partnership (different households)","30-44","Male","OBC",821.11
+0,1,"Informal sector","Electricity, gas, water","Partnership (different households)","30-44","Male","Others",821.11
+0,1,"Informal sector","Electricity, gas, water","Partnership (same household)","30-44","Male","Others",821.11
+0,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Female","SC",112.27
+0,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Male","ST",5.44
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","OBC",1583.55
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","SC",1080.29
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","ST",2665.54
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","OBC",15275.97
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","Others",1331.56
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","SC",5946.82
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","ST",3147.1
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","OBC",2014.06
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","SC",863.53
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","ST",75.54
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","OBC",17593.88
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","Others",6219.67
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","SC",17071.04
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","ST",6447.95
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Female","SC",1940.5
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","OBC",4199.31
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","Others",6429.88
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","SC",10881.21
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","ST",2471.13
+0,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Male","ST",76.5
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","OBC",2417.08
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","Others",533.38
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","SC",2613.09
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","OBC",12141.42
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","Others",2721.25
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","SC",1915.65
+0,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","ST",366.67
+0,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","OBC",1857.92
+0,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","Others",1007.08
+0,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","SC",532.65
+0,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","OBC",32684.05
+0,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","Others",11034.44
+0,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","SC",3518.5
+0,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Female","OBC",985.83
+0,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","OBC",10375.71
+0,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","Others",5492.13
+0,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","SC",2332.96
+0,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Female","OBC",1033.17
+0,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Male","OBC",1113.21
+0,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Male","SC",4259.45
+0,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Female","OBC",4136.3
+0,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Male","OBC",1163.43
+0,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Female","OBC",5448.27
+0,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Male","OBC",5463.38
+0,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Male","Others",1156.46
+0,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Female","OBC",1450.84
+0,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Female","Others",1703.96
+0,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Male","OBC",626.19
+0,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Female","OBC",435.75
+0,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Female","Others",516.25
+0,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Male","OBC",83
+0,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Male","SC",172.13
+0,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Female","OBC",4834.75
+0,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Female","SC",1137.5
+0,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Male","OBC",435.75
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","OBC",40866.18
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","Others",5160.75
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","SC",11266.59
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","ST",505.88
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","OBC",141577.87
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","Others",62481.74
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","SC",70696.08
+0,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","ST",23110.35
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","OBC",55648.73
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","Others",6275.05
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","SC",20836.8
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","ST",1960
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","OBC",199465.82
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","Others",105402.34
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","SC",80526.2
+0,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","ST",10245.95
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","OBC",48421.43
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","Others",935
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","SC",10125.81
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","ST",587.5
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","OBC",96722.72
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","Others",57503.55
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","SC",25254.34
+0,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","ST",5414.58
+0,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Female","OBC",4260.25
+0,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Female","Others",1558.77
+0,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","OBC",9900.89
+0,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","Others",6254.69
+0,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","SC",2801.27
+0,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","ST",326.25
+0,1,"Informal sector","Mining & quarrying","Partnership (same household)","30-44","Male","SC",502.58
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","OBC",3136.04
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","Others",1684.97
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","SC",1221.21
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","OBC",8468.49
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","Others",491.63
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","SC",930.17
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","ST",2389.65
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","OBC",7013.21
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","Others",2820.37
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","SC",5676.73
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","ST",1207.25
+0,1,"Informal sector","Mining & quarrying","Proprietary (male)","60+","Male","OBC",514.25
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","OBC",26150.22
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","Others",1018.46
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","SC",2169.42
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","ST",2299
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","OBC",24415.45
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","Others",3560.17
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","SC",3243.21
+0,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","ST",1161.58
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","OBC",11204.26
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","Others",10762.65
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","SC",4309.55
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","ST",467.88
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","OBC",11096.27
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","Others",9014.44
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","SC",9605.62
+0,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","ST",304.79
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","OBC",8130.92
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","Others",7262.78
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","SC",924.46
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","ST",2186.17
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","OBC",7984.35
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","Others",6890.89
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","SC",190.05
+0,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","ST",728.05
+0,1,"Informal sector","Other services","Partnership (different households)","60+","Female","OBC",1212.61
+0,1,"Informal sector","Other services","Partnership (same household)","15-29","Female","OBC",1135.01
+0,1,"Informal sector","Other services","Partnership (same household)","15-29","Female","Others",652.84
+0,1,"Informal sector","Other services","Partnership (same household)","15-29","Male","OBC",1489.59
+0,1,"Informal sector","Other services","Partnership (same household)","15-29","Male","ST",725.46
+0,1,"Informal sector","Other services","Partnership (same household)","30-44","Female","OBC",3383.75
+0,1,"Informal sector","Other services","Partnership (same household)","30-44","Female","Others",1203.58
+0,1,"Informal sector","Other services","Partnership (same household)","30-44","Female","SC",702.19
+0,1,"Informal sector","Other services","Partnership (same household)","30-44","Male","OBC",3442.02
+0,1,"Informal sector","Other services","Partnership (same household)","30-44","Male","Others",403
+0,1,"Informal sector","Other services","Partnership (same household)","30-44","Male","SC",467.88
+0,1,"Informal sector","Other services","Partnership (same household)","45-59","Female","OBC",263.96
+0,1,"Informal sector","Other services","Partnership (same household)","45-59","Female","Others",1689.88
+0,1,"Informal sector","Other services","Partnership (same household)","45-59","Male","OBC",3166.25
+0,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","OBC",14103.15
+0,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","Others",14619.65
+0,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","SC",14633.83
+0,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","ST",1469.34
+0,1,"Informal sector","Other services","Proprietary (female)","15-29","Male","OBC",1249.88
+0,1,"Informal sector","Other services","Proprietary (female)","15-29","Male","SC",353.94
+0,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","OBC",22871.44
+0,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","Others",25232.96
+0,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","SC",16518.94
+0,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","ST",6312.97
+0,1,"Informal sector","Other services","Proprietary (female)","30-44","Male","OBC",177.38
+0,1,"Informal sector","Other services","Proprietary (female)","30-44","Male","ST",811.69
+0,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","OBC",14712.13
+0,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","Others",6765.05
+0,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","SC",12465.83
+0,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","ST",1051.81
+0,1,"Informal sector","Other services","Proprietary (female)","45-59","Male","OBC",6658
+0,1,"Informal sector","Other services","Proprietary (female)","45-59","Male","Others",322.58
+0,1,"Informal sector","Other services","Proprietary (female)","60+","Female","OBC",2763.63
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","OBC",110617.02
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","Others",41176.86
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","SC",35038.94
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","ST",7861.74
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","OBC",151591.2
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","Others",96938.03
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","SC",60768.19
+0,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","ST",19769.66
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","OBC",151329.16
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","Others",92889.48
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","SC",50105.61
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","ST",15074.16
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","OBC",213981.25
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","Others",181636.27
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","SC",83490.67
+0,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","ST",37129.22
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","OBC",47270.96
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","Others",46265.63
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","SC",12042.02
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","ST",4033.24
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","OBC",105304.01
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","Others",104127.74
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","SC",57406.57
+0,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","ST",16233.62
+0,1,"Informal sector","Other services","Proprietary (male)","60+","Female","OBC",3332.25
+0,1,"Informal sector","Other services","Proprietary (male)","60+","Female","Others",1216.44
+0,1,"Informal sector","Other services","Proprietary (male)","60+","Female","SC",879.96
+0,1,"Informal sector","Other services","Proprietary (male)","60+","Male","OBC",19871.07
+0,1,"Informal sector","Other services","Proprietary (male)","60+","Male","Others",5200.62
+0,1,"Informal sector","Other services","Proprietary (male)","60+","Male","SC",531.27
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Female","OBC",521.33
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Female","SC",1014.55
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","OBC",26139.64
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","Others",10535.76
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","SC",203.67
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","ST",2552
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","OBC",483.44
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","Others",1177.88
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","ST",690.75
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","OBC",12240.4
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","Others",5622.76
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","SC",2862.81
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Female","OBC",593.5
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Female","Others",473.96
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Female","ST",13.75
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Male","OBC",1864.27
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Male","Others",2362.89
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Male","Others",3215.63
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Female","OBC",1434.5
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","OBC",4095.62
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","SC",2657.04
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","ST",119.25
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Female","OBC",1016.44
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Male","OBC",6789.62
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Male","SC",376.5
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Male","OBC",1397.67
+0,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Male","Others",1047
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","OBC",1615.76
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","Others",1735.13
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","SC",71.75
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Male","OBC",3425.5
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Female","OBC",4359.25
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Female","Others",646.19
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Male","Others",1745.69
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Male","ST",99
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Female","OBC",1913.5
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","OBC",38569.74
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","Others",18225.68
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","SC",15654.73
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","ST",2721.39
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","OBC",170104.46
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","Others",108158.34
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","SC",47031.58
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","ST",16734.49
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","OBC",56791.14
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","Others",11814.46
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","SC",12887.42
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","ST",423.67
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","OBC",198163.84
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","Others",136337.14
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","SC",52928.94
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","ST",15431.72
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","OBC",9218.48
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","Others",559.42
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","SC",668.76
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","ST",151.04
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","OBC",93545.03
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","Others",69955.51
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","SC",12512.74
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","ST",1284.94
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","OBC",4170.42
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","Others",8570.68
+0,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","SC",1463.44
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Female","OBC",1565.2
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Female","Others",140.63
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Male","OBC",4321.4
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Male","Others",5442.26
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","OBC",15526.86
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","Others",3347.61
+0,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","SC",1403.21
+0,1,"Informal sector","Transport, storage & communication","Partnership (same household)","15-29","Male","OBC",4043.96
+0,1,"Informal sector","Transport, storage & communication","Partnership (same household)","30-44","Male","OBC",1193.5
+0,1,"Informal sector","Transport, storage & communication","Partnership (same household)","30-44","Male","Others",672.13
+0,1,"Informal sector","Transport, storage & communication","Partnership (same household)","45-59","Male","Others",412.44
+0,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","OBC",1608.27
+0,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","Others",2663.27
+0,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","SC",1649.06
+0,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Female","OBC",962.61
+0,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Female","Others",4071.96
+0,1,"Informal sector","Transport, storage & communication","Proprietary (female)","45-59","Female","OBC",2409.79
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","OBC",20292.78
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","Others",8184.18
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","SC",11956.57
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","ST",852.08
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","OBC",63446.67
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","Others",35012.17
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","SC",11667.98
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","ST",4924.75
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","OBC",8266.86
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","Others",10574.92
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","SC",1588.13
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","ST",123.5
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","OBC",77803.75
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","Others",64337.11
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","SC",19438.2
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","ST",6087.17
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Female","OBC",2184.55
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","OBC",47661.83
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","Others",15011.47
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","SC",6489.18
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","ST",961.46
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Male","OBC",1381.61
+0,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Male","Others",201.88
+0,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Female","OBC",538.19
+0,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Female","ST",5644.38
+0,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Female","OBC",5386.74
+0,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Male","OBC",396.08
+0,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Female","OBC",1677.79
+0,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Female","SC",1125.33
+0,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","OBC",663.6
+0,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","Others",515.67
+0,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","SC",1083
+0,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Female","OBC",5181.33
+0,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Male","OBC",9828.19
+0,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Male","Others",95.08
+0,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Male","OBC",538.19
+0,,"Crop agriculture","Agriculture",,"15-29","Female","OBC",40107.58
+0,,"Crop agriculture","Agriculture",,"15-29","Female","Others",4779.84
+0,,"Crop agriculture","Agriculture",,"15-29","Female","SC",328.5
+0,,"Crop agriculture","Agriculture",,"15-29","Female","ST",48218.74
+0,,"Crop agriculture","Agriculture",,"15-29","Male","OBC",28545.02
+0,,"Crop agriculture","Agriculture",,"15-29","Male","SC",2330.05
+0,,"Crop agriculture","Agriculture",,"15-29","Male","ST",9014.09
+0,,"Crop agriculture","Agriculture",,"30-44","Female","OBC",96751.79
+0,,"Crop agriculture","Agriculture",,"30-44","Female","Others",11434.08
+0,,"Crop agriculture","Agriculture",,"30-44","Female","SC",27532.97
+0,,"Crop agriculture","Agriculture",,"30-44","Female","ST",152212.63
+0,,"Crop agriculture","Agriculture",,"30-44","Male","OBC",35374.31
+0,,"Crop agriculture","Agriculture",,"30-44","Male","Others",10411.38
+0,,"Crop agriculture","Agriculture",,"30-44","Male","SC",17655.68
+0,,"Crop agriculture","Agriculture",,"30-44","Male","ST",123008.28
+0,,"Crop agriculture","Agriculture",,"45-59","Female","OBC",61889.13
+0,,"Crop agriculture","Agriculture",,"45-59","Female","Others",9027.9
+0,,"Crop agriculture","Agriculture",,"45-59","Female","SC",18517.84
+0,,"Crop agriculture","Agriculture",,"45-59","Female","ST",23029.77
+0,,"Crop agriculture","Agriculture",,"45-59","Male","OBC",43287.35
+0,,"Crop agriculture","Agriculture",,"45-59","Male","Others",5904.35
+0,,"Crop agriculture","Agriculture",,"45-59","Male","SC",39499.45
+0,,"Crop agriculture","Agriculture",,"45-59","Male","ST",25781.1
+0,,"Crop agriculture","Agriculture",,"60+","Female","OBC",76
+0,,"Crop agriculture","Agriculture",,"60+","Female","ST",1106.11
+0,,"Crop agriculture","Agriculture",,"60+","Male","OBC",49.5
+0,,"Crop agriculture","Agriculture",,"60+","Male","SC",3609.67
+0,,"Crop agriculture","Agriculture",,"60+","Male","ST",915.44
+0,,"Other/unknown","Construction",,"15-29","Female","OBC",995.31
+0,,"Other/unknown","Construction",,"15-29","Male","Others",708.75
+0,,"Other/unknown","Manufacturing",,"15-29","Male","OBC",1368.3
+0,,"Other/unknown","Manufacturing",,"15-29","Male","Others",3965
+0,,"Other/unknown","Manufacturing",,"15-29","Male","ST",500.79
+0,,"Other/unknown","Manufacturing",,"30-44","Male","OBC",3169.48
+0,,"Other/unknown","Manufacturing",,"30-44","Male","Others",1200.62
+0,,"Other/unknown","Manufacturing",,"30-44","Male","SC",770.42
+0,,"Other/unknown","Manufacturing",,"45-59","Male","OBC",984.23
+0,,"Other/unknown","Other services",,"15-29","Female","OBC",867.67
+0,,"Other/unknown","Other services",,"15-29","Female","Others",1239.88
+0,,"Other/unknown","Other services",,"15-29","Female","SC",1134.25
+0,,"Other/unknown","Other services",,"15-29","Female","ST",224.06
+0,,"Other/unknown","Other services",,"15-29","Male","OBC",4394.04
+0,,"Other/unknown","Other services",,"15-29","Male","Others",2315.71
+0,,"Other/unknown","Other services",,"15-29","Male","SC",249.76
+0,,"Other/unknown","Other services",,"30-44","Female","OBC",6015.4
+0,,"Other/unknown","Other services",,"30-44","Female","Others",2862.63
+0,,"Other/unknown","Other services",,"30-44","Female","SC",124.88
+0,,"Other/unknown","Other services",,"30-44","Male","OBC",2920.5
+0,,"Other/unknown","Other services",,"30-44","Male","Others",5282.32
+0,,"Other/unknown","Other services",,"30-44","Male","SC",1191.96
+0,,"Other/unknown","Other services",,"30-44","Male","ST",332
+0,,"Other/unknown","Other services",,"45-59","Female","Others",1134.25
+0,,"Other/unknown","Other services",,"45-59","Male","OBC",1512.02
+0,,"Other/unknown","Other services",,"45-59","Male","Others",1995.29
+0,,"Other/unknown","Other services",,"45-59","Male","SC",1566.58
+0,,"Other/unknown","Other services",,"45-59","Male","ST",90.94
+0,,"Other/unknown","Other services",,"60+","Male","ST",19
+0,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Female","Others",916.5
+0,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","OBC",896.88
+0,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","Others",1391.88
+0,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","SC",1682.42
+0,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","OBC",1407.5
+0,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","Others",4546.29
+0,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","SC",2150.32
+0,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Male","Others",1025.21
+0,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Male","SC",703.38
+0,,"Other/unknown","Transport, storage & communication",,"15-29","Male","OBC",182.67
+0,,"Other/unknown","Transport, storage & communication",,"15-29","Male","Others",2395.46
+0,,"Other/unknown","Transport, storage & communication",,"15-29","Male","ST",214.75
+0,,"Other/unknown","Transport, storage & communication",,"45-59","Male","OBC",102.38
+0,,"Other/unknown","Transport, storage & communication",,"45-59","Male","Others",1018.06
+1,0,"Formal sector","Agriculture",,"0-14","Female","ST",1392.88
+1,0,"Formal sector","Agriculture",,"15-29","Female","OBC",2014.67
+1,0,"Formal sector","Agriculture",,"15-29","Female","Others",665.83
+1,0,"Formal sector","Agriculture",,"15-29","Female","SC",1245.08
+1,0,"Formal sector","Agriculture",,"15-29","Female","ST",4387.9
+1,0,"Formal sector","Agriculture",,"15-29","Male","OBC",14539.18
+1,0,"Formal sector","Agriculture",,"15-29","Male","Others",1825.2
+1,0,"Formal sector","Agriculture",,"15-29","Male","SC",4826.02
+1,0,"Formal sector","Agriculture",,"15-29","Male","ST",3405.68
+1,0,"Formal sector","Agriculture",,"30-44","Female","OBC",22662.91
+1,0,"Formal sector","Agriculture",,"30-44","Female","Others",7270.93
+1,0,"Formal sector","Agriculture",,"30-44","Female","SC",8370.51
+1,0,"Formal sector","Agriculture",,"30-44","Female","ST",21167.39
+1,0,"Formal sector","Agriculture",,"30-44","Male","OBC",17947.35
+1,0,"Formal sector","Agriculture",,"30-44","Male","Others",10041.6
+1,0,"Formal sector","Agriculture",,"30-44","Male","SC",38985.11
+1,0,"Formal sector","Agriculture",,"30-44","Male","ST",14399.99
+1,0,"Formal sector","Agriculture",,"45-59","Female","OBC",48201.05
+1,0,"Formal sector","Agriculture",,"45-59","Female","Others",11612.06
+1,0,"Formal sector","Agriculture",,"45-59","Female","SC",7345.66
+1,0,"Formal sector","Agriculture",,"45-59","Female","ST",8451.32
+1,0,"Formal sector","Agriculture",,"45-59","Male","OBC",18717.08
+1,0,"Formal sector","Agriculture",,"45-59","Male","Others",3283.75
+1,0,"Formal sector","Agriculture",,"45-59","Male","SC",10010.37
+1,0,"Formal sector","Agriculture",,"45-59","Male","ST",2727.97
+1,0,"Formal sector","Agriculture",,"60+","Female","OBC",49973.09
+1,0,"Formal sector","Agriculture",,"60+","Female","Others",5154.07
+1,0,"Formal sector","Agriculture",,"60+","Female","SC",18810.59
+1,0,"Formal sector","Agriculture",,"60+","Female","ST",4219.5
+1,0,"Formal sector","Agriculture",,"60+","Male","OBC",13028.05
+1,0,"Formal sector","Agriculture",,"60+","Male","Others",6774.91
+1,0,"Formal sector","Agriculture",,"60+","Male","SC",6497.73
+1,0,"Formal sector","Agriculture",,"60+","Male","ST",12535.83
+1,0,"Formal sector","Construction",,"15-29","Female","OBC",27690.33
+1,0,"Formal sector","Construction",,"15-29","Female","Others",21764.53
+1,0,"Formal sector","Construction",,"15-29","Female","SC",23469.53
+1,0,"Formal sector","Construction",,"15-29","Female","ST",11830.01
+1,0,"Formal sector","Construction",,"15-29","Male","OBC",80814.96
+1,0,"Formal sector","Construction",,"15-29","Male","Others",30050.96
+1,0,"Formal sector","Construction",,"15-29","Male","SC",130968.34
+1,0,"Formal sector","Construction",,"15-29","Male","ST",27508.3
+1,0,"Formal sector","Construction",,"30-44","Female","OBC",136296.57
+1,0,"Formal sector","Construction",,"30-44","Female","Others",17902.75
+1,0,"Formal sector","Construction",,"30-44","Female","SC",180279.33
+1,0,"Formal sector","Construction",,"30-44","Female","ST",31612.66
+1,0,"Formal sector","Construction",,"30-44","Male","OBC",123618.43
+1,0,"Formal sector","Construction",,"30-44","Male","Others",69166.72
+1,0,"Formal sector","Construction",,"30-44","Male","SC",88832.51
+1,0,"Formal sector","Construction",,"30-44","Male","ST",41063.55
+1,0,"Formal sector","Construction",,"45-59","Female","OBC",157022.51
+1,0,"Formal sector","Construction",,"45-59","Female","Others",17959.79
+1,0,"Formal sector","Construction",,"45-59","Female","SC",178672.35
+1,0,"Formal sector","Construction",,"45-59","Female","ST",38252.51
+1,0,"Formal sector","Construction",,"45-59","Male","OBC",65013.91
+1,0,"Formal sector","Construction",,"45-59","Male","Others",82647.4
+1,0,"Formal sector","Construction",,"45-59","Male","SC",71291.01
+1,0,"Formal sector","Construction",,"45-59","Male","ST",33598.69
+1,0,"Formal sector","Construction",,"60+","Female","OBC",139387.84
+1,0,"Formal sector","Construction",,"60+","Female","Others",10443.91
+1,0,"Formal sector","Construction",,"60+","Female","SC",90640.93
+1,0,"Formal sector","Construction",,"60+","Female","ST",12585.28
+1,0,"Formal sector","Construction",,"60+","Male","OBC",52223.65
+1,0,"Formal sector","Construction",,"60+","Male","Others",29005.78
+1,0,"Formal sector","Construction",,"60+","Male","SC",65312.72
+1,0,"Formal sector","Construction",,"60+","Male","ST",4762.34
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Female","OBC",5799.18
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Female","SC",10764.51
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Female","ST",1253.58
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Male","OBC",65243.84
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Male","Others",29015.8
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Male","SC",64678.61
+1,0,"Formal sector","Electricity, gas, water",,"15-29","Male","ST",8514.65
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Female","OBC",6617.59
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Female","Others",2418.6
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Female","SC",13852.22
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Female","ST",8290.14
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Male","OBC",66482.82
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Male","Others",51738.36
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Male","SC",42825.14
+1,0,"Formal sector","Electricity, gas, water",,"30-44","Male","ST",26232.89
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Female","OBC",15274.94
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Female","Others",6115.14
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Female","SC",16828.84
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Female","ST",170.32
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Male","OBC",35983.46
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Male","Others",34878.41
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Male","SC",42535.58
+1,0,"Formal sector","Electricity, gas, water",,"45-59","Male","ST",10785.51
+1,0,"Formal sector","Electricity, gas, water",,"60+","Female","SC",2516.25
+1,0,"Formal sector","Electricity, gas, water",,"60+","Male","OBC",1255.1
+1,0,"Formal sector","Electricity, gas, water",,"60+","Male","Others",472.1
+1,0,"Formal sector","Electricity, gas, water",,"60+","Male","SC",2144.79
+1,0,"Formal sector","Electricity, gas, water",,"60+","Male","ST",582.5
+1,0,"Formal sector","Manufacturing",,"0-14","Male","ST",445.76
+1,0,"Formal sector","Manufacturing",,"15-29","Female","OBC",73298.77
+1,0,"Formal sector","Manufacturing",,"15-29","Female","Others",69557.18
+1,0,"Formal sector","Manufacturing",,"15-29","Female","SC",54401.91
+1,0,"Formal sector","Manufacturing",,"15-29","Female","ST",14942.15
+1,0,"Formal sector","Manufacturing",,"15-29","Male","OBC",581487.7
+1,0,"Formal sector","Manufacturing",,"15-29","Male","Others",416555.13
+1,0,"Formal sector","Manufacturing",,"15-29","Male","SC",312381.09
+1,0,"Formal sector","Manufacturing",,"15-29","Male","ST",147559.9
+1,0,"Formal sector","Manufacturing",,"30-44","Female","OBC",162750.01
+1,0,"Formal sector","Manufacturing",,"30-44","Female","Others",97936.81
+1,0,"Formal sector","Manufacturing",,"30-44","Female","SC",120175.99
+1,0,"Formal sector","Manufacturing",,"30-44","Female","ST",24131.64
+1,0,"Formal sector","Manufacturing",,"30-44","Male","OBC",629816.49
+1,0,"Formal sector","Manufacturing",,"30-44","Male","Others",447916.86
+1,0,"Formal sector","Manufacturing",,"30-44","Male","SC",296458.14
+1,0,"Formal sector","Manufacturing",,"30-44","Male","ST",62758.45
+1,0,"Formal sector","Manufacturing",,"45-59","Female","OBC",87367.01
+1,0,"Formal sector","Manufacturing",,"45-59","Female","Others",35000.55
+1,0,"Formal sector","Manufacturing",,"45-59","Female","SC",88132.2
+1,0,"Formal sector","Manufacturing",,"45-59","Female","ST",9785.25
+1,0,"Formal sector","Manufacturing",,"45-59","Male","OBC",272880.19
+1,0,"Formal sector","Manufacturing",,"45-59","Male","Others",274644.68
+1,0,"Formal sector","Manufacturing",,"45-59","Male","SC",142376.83
+1,0,"Formal sector","Manufacturing",,"45-59","Male","ST",25982.45
+1,0,"Formal sector","Manufacturing",,"60+","Female","OBC",15291.74
+1,0,"Formal sector","Manufacturing",,"60+","Female","Others",9416.75
+1,0,"Formal sector","Manufacturing",,"60+","Female","SC",5292.9
+1,0,"Formal sector","Manufacturing",,"60+","Male","OBC",58458.78
+1,0,"Formal sector","Manufacturing",,"60+","Male","Others",71910.49
+1,0,"Formal sector","Manufacturing",,"60+","Male","SC",22217.2
+1,0,"Formal sector","Manufacturing",,"60+","Male","ST",1861.02
+1,0,"Formal sector","Mining & quarrying",,"15-29","Female","ST",445.76
+1,0,"Formal sector","Mining & quarrying",,"15-29","Male","OBC",24448.17
+1,0,"Formal sector","Mining & quarrying",,"15-29","Male","Others",2640.76
+1,0,"Formal sector","Mining & quarrying",,"15-29","Male","SC",10237.06
+1,0,"Formal sector","Mining & quarrying",,"15-29","Male","ST",3271
+1,0,"Formal sector","Mining & quarrying",,"30-44","Female","OBC",1873.17
+1,0,"Formal sector","Mining & quarrying",,"30-44","Female","SC",683.75
+1,0,"Formal sector","Mining & quarrying",,"30-44","Female","ST",5764.93
+1,0,"Formal sector","Mining & quarrying",,"30-44","Male","OBC",25689.41
+1,0,"Formal sector","Mining & quarrying",,"30-44","Male","Others",10351.71
+1,0,"Formal sector","Mining & quarrying",,"30-44","Male","SC",21639.53
+1,0,"Formal sector","Mining & quarrying",,"30-44","Male","ST",13513.83
+1,0,"Formal sector","Mining & quarrying",,"45-59","Female","OBC",3186.33
+1,0,"Formal sector","Mining & quarrying",,"45-59","Male","OBC",15773.11
+1,0,"Formal sector","Mining & quarrying",,"45-59","Male","Others",869.83
+1,0,"Formal sector","Mining & quarrying",,"45-59","Male","SC",3219.81
+1,0,"Formal sector","Mining & quarrying",,"45-59","Male","ST",7888.56
+1,0,"Formal sector","Mining & quarrying",,"60+","Male","OBC",3739.17
+1,0,"Formal sector","Mining & quarrying",,"60+","Male","Others",465
+1,0,"Formal sector","Other services",,"15-29","Female","OBC",368755.05
+1,0,"Formal sector","Other services",,"15-29","Female","Others",300979.79
+1,0,"Formal sector","Other services",,"15-29","Female","SC",188828.12
+1,0,"Formal sector","Other services",,"15-29","Female","ST",94486.6
+1,0,"Formal sector","Other services",,"15-29","Male","OBC",437485.54
+1,0,"Formal sector","Other services",,"15-29","Male","Others",310374.66
+1,0,"Formal sector","Other services",,"15-29","Male","SC",223450.06
+1,0,"Formal sector","Other services",,"15-29","Male","ST",78963.87
+1,0,"Formal sector","Other services",,"30-44","Female","OBC",929057.67
+1,0,"Formal sector","Other services",,"30-44","Female","Others",415861.85
+1,0,"Formal sector","Other services",,"30-44","Female","SC",472201.88
+1,0,"Formal sector","Other services",,"30-44","Female","ST",286893.07
+1,0,"Formal sector","Other services",,"30-44","Male","OBC",738695.89
+1,0,"Formal sector","Other services",,"30-44","Male","Others",540778.74
+1,0,"Formal sector","Other services",,"30-44","Male","SC",434561.54
+1,0,"Formal sector","Other services",,"30-44","Male","ST",125197.21
+1,0,"Formal sector","Other services",,"30-44","Transgender","OBC",3622.5
+1,0,"Formal sector","Other services",,"45-59","Female","OBC",632356.61
+1,0,"Formal sector","Other services",,"45-59","Female","Others",371638.82
+1,0,"Formal sector","Other services",,"45-59","Female","SC",364308.32
+1,0,"Formal sector","Other services",,"45-59","Female","ST",106305.89
+1,0,"Formal sector","Other services",,"45-59","Male","OBC",460365.53
+1,0,"Formal sector","Other services",,"45-59","Male","Others",425260.53
+1,0,"Formal sector","Other services",,"45-59","Male","SC",278473.12
+1,0,"Formal sector","Other services",,"45-59","Male","ST",78601.99
+1,0,"Formal sector","Other services",,"60+","Female","OBC",70804.88
+1,0,"Formal sector","Other services",,"60+","Female","Others",39831.72
+1,0,"Formal sector","Other services",,"60+","Female","SC",48725.96
+1,0,"Formal sector","Other services",,"60+","Female","ST",10200.75
+1,0,"Formal sector","Other services",,"60+","Male","OBC",140168.41
+1,0,"Formal sector","Other services",,"60+","Male","Others",189017.11
+1,0,"Formal sector","Other services",,"60+","Male","SC",81764.6
+1,0,"Formal sector","Other services",,"60+","Male","ST",13012.29
+1,0,"Formal sector","Trade, hotels & restaurants",,"0-14","Male","OBC",401
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","OBC",22932.83
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","Others",24473.27
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","SC",24653.33
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Female","ST",4941.98
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","OBC",181662.38
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","Others",159941.28
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","SC",85455.89
+1,0,"Formal sector","Trade, hotels & restaurants",,"15-29","Male","ST",22902.74
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","OBC",53582.14
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","Others",29440.9
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","SC",20297.26
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Female","ST",29697.18
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","OBC",175851.52
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","Others",121387.34
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","SC",71057.96
+1,0,"Formal sector","Trade, hotels & restaurants",,"30-44","Male","ST",39013.47
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","OBC",31121.65
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","Others",14912.9
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","SC",16152.81
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Female","ST",4391.37
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","OBC",101005.1
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","Others",72043.29
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","SC",25193.5
+1,0,"Formal sector","Trade, hotels & restaurants",,"45-59","Male","ST",13799.71
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Female","OBC",3368.85
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Female","Others",760.29
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Female","ST",243.96
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","OBC",19915.35
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","Others",32601.78
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","SC",865.72
+1,0,"Formal sector","Trade, hotels & restaurants",,"60+","Male","ST",981.94
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Female","OBC",19512.57
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Female","Others",56404.55
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Female","SC",18593.33
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Female","ST",1761.37
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Male","OBC",190984.98
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Male","Others",168612.99
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Male","SC",64106.06
+1,0,"Formal sector","Transport, storage & communication",,"15-29","Male","ST",34701.26
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Female","OBC",24401.07
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Female","Others",35035.15
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Female","SC",8201.96
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Female","ST",945.05
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Male","OBC",218948.21
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Male","Others",184689.09
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Male","SC",98223.13
+1,0,"Formal sector","Transport, storage & communication",,"30-44","Male","ST",16923.09
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Female","OBC",5999.65
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Female","Others",16263.8
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Female","SC",4912.88
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Male","OBC",82972.42
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Male","Others",77717.94
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Male","SC",37677.18
+1,0,"Formal sector","Transport, storage & communication",,"45-59","Male","ST",5159.56
+1,0,"Formal sector","Transport, storage & communication",,"60+","Female","OBC",820.83
+1,0,"Formal sector","Transport, storage & communication",,"60+","Male","OBC",15723.15
+1,0,"Formal sector","Transport, storage & communication",,"60+","Male","Others",13123.78
+1,0,"Formal sector","Transport, storage & communication",,"60+","Male","SC",7955.18
+1,0,"Household (domestic work)","Other services",,"0-14","Female","OBC",2344.64
+1,0,"Household (domestic work)","Other services",,"0-14","Female","ST",281.33
+1,0,"Household (domestic work)","Other services",,"15-29","Female","OBC",143508.85
+1,0,"Household (domestic work)","Other services",,"15-29","Female","Others",122244.93
+1,0,"Household (domestic work)","Other services",,"15-29","Female","SC",169879.76
+1,0,"Household (domestic work)","Other services",,"15-29","Female","ST",53835.16
+1,0,"Household (domestic work)","Other services",,"15-29","Male","OBC",138975.92
+1,0,"Household (domestic work)","Other services",,"15-29","Male","Others",137223.17
+1,0,"Household (domestic work)","Other services",,"15-29","Male","SC",90818.39
+1,0,"Household (domestic work)","Other services",,"15-29","Male","ST",17333.23
+1,0,"Household (domestic work)","Other services",,"30-44","Female","OBC",632860.58
+1,0,"Household (domestic work)","Other services",,"30-44","Female","Others",444964.73
+1,0,"Household (domestic work)","Other services",,"30-44","Female","SC",682231.61
+1,0,"Household (domestic work)","Other services",,"30-44","Female","ST",131613.67
+1,0,"Household (domestic work)","Other services",,"30-44","Male","OBC",304521
+1,0,"Household (domestic work)","Other services",,"30-44","Male","Others",252047.58
+1,0,"Household (domestic work)","Other services",,"30-44","Male","SC",169102.8
+1,0,"Household (domestic work)","Other services",,"30-44","Male","ST",26259.11
+1,0,"Household (domestic work)","Other services",,"45-59","Female","OBC",555110.55
+1,0,"Household (domestic work)","Other services",,"45-59","Female","Others",386164.4
+1,0,"Household (domestic work)","Other services",,"45-59","Female","SC",509860.07
+1,0,"Household (domestic work)","Other services",,"45-59","Female","ST",86749.86
+1,0,"Household (domestic work)","Other services",,"45-59","Male","OBC",230888.79
+1,0,"Household (domestic work)","Other services",,"45-59","Male","Others",184662.7
+1,0,"Household (domestic work)","Other services",,"45-59","Male","SC",63227.54
+1,0,"Household (domestic work)","Other services",,"45-59","Male","ST",10221.51
+1,0,"Household (domestic work)","Other services",,"60+","Female","OBC",186995
+1,0,"Household (domestic work)","Other services",,"60+","Female","Others",74217.56
+1,0,"Household (domestic work)","Other services",,"60+","Female","SC",139854
+1,0,"Household (domestic work)","Other services",,"60+","Female","ST",41042.59
+1,0,"Household (domestic work)","Other services",,"60+","Male","OBC",50864.45
+1,0,"Household (domestic work)","Other services",,"60+","Male","Others",49752.65
+1,0,"Household (domestic work)","Other services",,"60+","Male","SC",47513.71
+1,0,"Household (domestic work)","Other services",,"60+","Male","ST",10879.58
+1,1,"Informal sector","Agriculture","Partnership (different households)","15-29","Female","OBC",1410.66
+1,1,"Informal sector","Agriculture","Partnership (different households)","15-29","Male","OBC",19983.97
+1,1,"Informal sector","Agriculture","Partnership (different households)","15-29","Male","Others",3178.41
+1,1,"Informal sector","Agriculture","Partnership (different households)","15-29","Male","SC",14815.22
+1,1,"Informal sector","Agriculture","Partnership (different households)","15-29","Male","ST",301.19
+1,1,"Informal sector","Agriculture","Partnership (different households)","30-44","Female","OBC",980.63
+1,1,"Informal sector","Agriculture","Partnership (different households)","30-44","Female","SC",970.67
+1,1,"Informal sector","Agriculture","Partnership (different households)","30-44","Male","OBC",37661.72
+1,1,"Informal sector","Agriculture","Partnership (different households)","30-44","Male","Others",19166.6
+1,1,"Informal sector","Agriculture","Partnership (different households)","30-44","Male","SC",4071.53
+1,1,"Informal sector","Agriculture","Partnership (different households)","30-44","Male","ST",1458.75
+1,1,"Informal sector","Agriculture","Partnership (different households)","45-59","Female","OBC",108.48
+1,1,"Informal sector","Agriculture","Partnership (different households)","45-59","Female","SC",134.44
+1,1,"Informal sector","Agriculture","Partnership (different households)","45-59","Male","OBC",48210.48
+1,1,"Informal sector","Agriculture","Partnership (different households)","45-59","Male","Others",5004.07
+1,1,"Informal sector","Agriculture","Partnership (different households)","45-59","Male","SC",6722.52
+1,1,"Informal sector","Agriculture","Partnership (different households)","45-59","Male","ST",745.92
+1,1,"Informal sector","Agriculture","Partnership (different households)","60+","Female","OBC",1007.5
+1,1,"Informal sector","Agriculture","Partnership (different households)","60+","Male","OBC",29202.48
+1,1,"Informal sector","Agriculture","Partnership (different households)","60+","Male","Others",4896.37
+1,1,"Informal sector","Agriculture","Partnership (different households)","60+","Male","ST",43.75
+1,1,"Informal sector","Agriculture","Partnership (same household)","15-29","Female","OBC",1999.73
+1,1,"Informal sector","Agriculture","Partnership (same household)","15-29","Female","Others",1125.42
+1,1,"Informal sector","Agriculture","Partnership (same household)","15-29","Female","SC",2149.19
+1,1,"Informal sector","Agriculture","Partnership (same household)","15-29","Male","OBC",5535.38
+1,1,"Informal sector","Agriculture","Partnership (same household)","15-29","Male","Others",1032.4
+1,1,"Informal sector","Agriculture","Partnership (same household)","15-29","Male","SC",167.92
+1,1,"Informal sector","Agriculture","Partnership (same household)","30-44","Female","OBC",1267.78
+1,1,"Informal sector","Agriculture","Partnership (same household)","30-44","Female","Others",2415.36
+1,1,"Informal sector","Agriculture","Partnership (same household)","30-44","Female","SC",1669.38
+1,1,"Informal sector","Agriculture","Partnership (same household)","30-44","Male","OBC",1447.05
+1,1,"Informal sector","Agriculture","Partnership (same household)","30-44","Male","Others",2232.68
+1,1,"Informal sector","Agriculture","Partnership (same household)","45-59","Female","OBC",2203.97
+1,1,"Informal sector","Agriculture","Partnership (same household)","45-59","Female","Others",1676.69
+1,1,"Informal sector","Agriculture","Partnership (same household)","45-59","Female","SC",429.06
+1,1,"Informal sector","Agriculture","Partnership (same household)","45-59","Male","OBC",1200
+1,1,"Informal sector","Agriculture","Partnership (same household)","45-59","Male","Others",271.67
+1,1,"Informal sector","Agriculture","Partnership (same household)","45-59","Male","SC",529.38
+1,1,"Informal sector","Agriculture","Partnership (same household)","60+","Female","OBC",522.2
+1,1,"Informal sector","Agriculture","Partnership (same household)","60+","Female","Others",118.02
+1,1,"Informal sector","Agriculture","Partnership (same household)","60+","Male","OBC",585.09
+1,1,"Informal sector","Agriculture","Partnership (same household)","60+","Male","Others",1146.57
+1,1,"Informal sector","Agriculture","Partnership (same household)","60+","Male","SC",1140
+1,1,"Informal sector","Agriculture","Proprietary (female)","0-14","Female","OBC",3966.67
+1,1,"Informal sector","Agriculture","Proprietary (female)","0-14","Female","SC",2095.5
+1,1,"Informal sector","Agriculture","Proprietary (female)","0-14","Female","ST",1513.75
+1,1,"Informal sector","Agriculture","Proprietary (female)","0-14","Male","OBC",5605.05
+1,1,"Informal sector","Agriculture","Proprietary (female)","0-14","Male","ST",1347.42
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Female","OBC",1352935.93
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Female","Others",338430.22
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Female","SC",593799.44
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Female","ST",341416.21
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Male","OBC",211966.25
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Male","Others",36960.86
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Male","SC",117232.43
+1,1,"Informal sector","Agriculture","Proprietary (female)","15-29","Male","ST",38035.23
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Female","OBC",3966956.13
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Female","Others",1563432.98
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Female","SC",1660197.52
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Female","ST",961113.95
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Male","OBC",16562.79
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Male","Others",17037.73
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Male","SC",10282.67
+1,1,"Informal sector","Agriculture","Proprietary (female)","30-44","Male","ST",10235.69
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Female","OBC",3340278.32
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Female","Others",1356475.38
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Female","SC",1282834.82
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Female","ST",572149.09
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Male","OBC",7787.62
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Male","Others",8004.26
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Male","SC",1840.19
+1,1,"Informal sector","Agriculture","Proprietary (female)","45-59","Male","ST",1208.04
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Female","OBC",988115.98
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Female","Others",462072.23
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Female","SC",468137.2
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Female","ST",258988.12
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Male","OBC",30945.34
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Male","Others",20176.04
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Male","SC",15919.31
+1,1,"Informal sector","Agriculture","Proprietary (female)","60+","Male","ST",5282.31
+1,1,"Informal sector","Agriculture","Proprietary (male)","0-14","Female","OBC",2442.28
+1,1,"Informal sector","Agriculture","Proprietary (male)","0-14","Female","SC",2670.17
+1,1,"Informal sector","Agriculture","Proprietary (male)","0-14","Male","OBC",11748.88
+1,1,"Informal sector","Agriculture","Proprietary (male)","0-14","Male","SC",4328.05
+1,1,"Informal sector","Agriculture","Proprietary (male)","0-14","Male","ST",1087.77
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Female","OBC",237216.19
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Female","Others",60116.71
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Female","SC",153735.17
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Female","ST",164170.89
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Male","OBC",1173494.3
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Male","Others",415588.99
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Male","SC",524427.16
+1,1,"Informal sector","Agriculture","Proprietary (male)","15-29","Male","ST",457117.52
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Female","OBC",711405.64
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Female","Others",206884.5
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Female","SC",422577.85
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Female","ST",281489.13
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","OBC",1682963.34
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","Others",689572.11
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","SC",805830.49
+1,1,"Informal sector","Agriculture","Proprietary (male)","30-44","Male","ST",460591.92
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Female","OBC",570909.72
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Female","Others",223860.91
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Female","SC",378785.61
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Female","ST",176139.75
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Male","OBC",1680880.46
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Male","Others",691603.48
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Male","SC",920130.56
+1,1,"Informal sector","Agriculture","Proprietary (male)","45-59","Male","ST",322780.15
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Female","OBC",286420.89
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Female","Others",83256.28
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Female","SC",229875.2
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Female","ST",54264.54
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Male","OBC",1130978.57
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Male","Others",453746.12
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Male","SC",648387.91
+1,1,"Informal sector","Agriculture","Proprietary (male)","60+","Male","ST",251697.91
+1,1,"Informal sector","Construction","Partnership (different households)","15-29","Male","OBC",9612.83
+1,1,"Informal sector","Construction","Partnership (different households)","15-29","Male","Others",8370.82
+1,1,"Informal sector","Construction","Partnership (different households)","15-29","Male","SC",7047.78
+1,1,"Informal sector","Construction","Partnership (different households)","15-29","Male","ST",172.33
+1,1,"Informal sector","Construction","Partnership (different households)","30-44","Female","Others",2232.96
+1,1,"Informal sector","Construction","Partnership (different households)","30-44","Male","OBC",22220.38
+1,1,"Informal sector","Construction","Partnership (different households)","30-44","Male","Others",9040.12
+1,1,"Informal sector","Construction","Partnership (different households)","30-44","Male","SC",10436.57
+1,1,"Informal sector","Construction","Partnership (different households)","30-44","Male","ST",929.63
+1,1,"Informal sector","Construction","Partnership (different households)","45-59","Male","OBC",16779.51
+1,1,"Informal sector","Construction","Partnership (different households)","45-59","Male","Others",11545.48
+1,1,"Informal sector","Construction","Partnership (different households)","45-59","Male","SC",2471.41
+1,1,"Informal sector","Construction","Partnership (different households)","60+","Male","OBC",50.75
+1,1,"Informal sector","Construction","Partnership (different households)","60+","Male","Others",2233.71
+1,1,"Informal sector","Construction","Partnership (same household)","15-29","Male","OBC",6528.62
+1,1,"Informal sector","Construction","Partnership (same household)","15-29","Male","Others",2255.38
+1,1,"Informal sector","Construction","Partnership (same household)","30-44","Male","OBC",5772.86
+1,1,"Informal sector","Construction","Partnership (same household)","30-44","Male","Others",125.83
+1,1,"Informal sector","Construction","Partnership (same household)","30-44","Male","ST",151.86
+1,1,"Informal sector","Construction","Partnership (same household)","45-59","Female","OBC",2810.19
+1,1,"Informal sector","Construction","Partnership (same household)","45-59","Female","SC",1043.17
+1,1,"Informal sector","Construction","Partnership (same household)","45-59","Male","OBC",3409.82
+1,1,"Informal sector","Construction","Partnership (same household)","45-59","Male","Others",107
+1,1,"Informal sector","Construction","Partnership (same household)","45-59","Male","SC",1043.17
+1,1,"Informal sector","Construction","Partnership (same household)","60+","Male","OBC",842.56
+1,1,"Informal sector","Construction","Partnership (same household)","60+","Male","Others",125.83
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Female","OBC",93836.74
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Female","Others",39294.26
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Female","SC",44390.19
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Female","ST",33873.67
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Male","OBC",4555.11
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Male","Others",4116.17
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Male","SC",13290.92
+1,1,"Informal sector","Construction","Proprietary (female)","15-29","Male","ST",5298.2
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Female","OBC",133449.28
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Female","Others",33546.05
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Female","SC",140431.67
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Female","ST",53600.45
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Male","OBC",3932.45
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Male","Others",2873.06
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Male","SC",1212.07
+1,1,"Informal sector","Construction","Proprietary (female)","30-44","Male","ST",1116.31
+1,1,"Informal sector","Construction","Proprietary (female)","45-59","Female","OBC",80862.51
+1,1,"Informal sector","Construction","Proprietary (female)","45-59","Female","Others",17584.88
+1,1,"Informal sector","Construction","Proprietary (female)","45-59","Female","SC",67960.02
+1,1,"Informal sector","Construction","Proprietary (female)","45-59","Female","ST",13510.67
+1,1,"Informal sector","Construction","Proprietary (female)","45-59","Male","OBC",8108.21
+1,1,"Informal sector","Construction","Proprietary (female)","45-59","Male","ST",2935.83
+1,1,"Informal sector","Construction","Proprietary (female)","60+","Female","OBC",12887.54
+1,1,"Informal sector","Construction","Proprietary (female)","60+","Female","Others",157.14
+1,1,"Informal sector","Construction","Proprietary (female)","60+","Female","SC",2284.31
+1,1,"Informal sector","Construction","Proprietary (female)","60+","Male","OBC",1040.63
+1,1,"Informal sector","Construction","Proprietary (female)","60+","Male","Others",491.33
+1,1,"Informal sector","Construction","Proprietary (male)","0-14","Male","OBC",5095.63
+1,1,"Informal sector","Construction","Proprietary (male)","0-14","Male","Others",880
+1,1,"Informal sector","Construction","Proprietary (male)","0-14","Male","SC",7974.65
+1,1,"Informal sector","Construction","Proprietary (male)","0-14","Male","ST",4568.23
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Female","OBC",528994.37
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Female","Others",45465.06
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Female","SC",518615.14
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Female","ST",321100.89
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","OBC",6207984.56
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","Others",2179814.29
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","SC",5318816.57
+1,1,"Informal sector","Construction","Proprietary (male)","15-29","Male","ST",2224156.73
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Female","OBC",744269.98
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Female","Others",89335
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Female","SC",685324.55
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Female","ST",448152.91
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","OBC",8499180.3
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","Others",3119546.02
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","SC",7259972.54
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Male","ST",2569734.95
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Transgender","SC",675
+1,1,"Informal sector","Construction","Proprietary (male)","30-44","Transgender","ST",148.17
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Female","OBC",252865.36
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Female","Others",15315.86
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Female","SC",231214.83
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Female","ST",143202.75
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","OBC",4800486.19
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","Others",1775749.92
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","SC",3850265.45
+1,1,"Informal sector","Construction","Proprietary (male)","45-59","Male","ST",1003297.36
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Female","OBC",22311.67
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Female","Others",3134.27
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Female","SC",13877.61
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Female","ST",4378.95
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Male","OBC",849711.85
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Male","Others",266089.72
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Male","SC",714822.87
+1,1,"Informal sector","Construction","Proprietary (male)","60+","Male","ST",148166.7
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","15-29","Female","OBC",1834.67
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","15-29","Male","OBC",4101.88
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","15-29","Male","SC",659.31
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","30-44","Female","SC",2300.3
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","30-44","Male","OBC",2502.95
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","30-44","Male","Others",4270.21
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","45-59","Female","OBC",6933.61
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","45-59","Female","Others",811
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","45-59","Female","SC",453.38
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","45-59","Male","OBC",691.44
+1,1,"Informal sector","Electricity, gas, water","Partnership (different households)","45-59","Male","SC",659.31
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","15-29","Female","OBC",2778.96
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","15-29","Female","Others",1539.33
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","15-29","Female","SC",222.33
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","15-29","Female","ST",888.33
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","15-29","Male","OBC",301.15
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Female","OBC",17479.19
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Female","Others",13645.53
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Female","SC",7048.13
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Female","ST",8782.34
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","30-44","Male","Others",696
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","45-59","Female","OBC",12175.36
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","45-59","Female","Others",3786.53
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","45-59","Female","SC",6003.88
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","45-59","Female","ST",1148.67
+1,1,"Informal sector","Electricity, gas, water","Proprietary (female)","60+","Female","OBC",3017.33
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","0-14","Male","OBC",1595.42
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","0-14","Male","SC",72.88
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","OBC",8329.06
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","Others",1428.61
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","SC",3881.31
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Female","ST",1353.46
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","OBC",106966.85
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","Others",71086.33
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","SC",109462.54
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","15-29","Male","ST",25967.83
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","OBC",20496.42
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","Others",161
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","SC",14321.65
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Female","ST",3455.88
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","OBC",162117.17
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","Others",80191.96
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","SC",89877
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","30-44","Male","ST",21803.69
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Female","OBC",4298.16
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Female","Others",3100.17
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Female","SC",7409.17
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","OBC",88147.75
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","Others",49841.77
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","SC",65243.91
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","45-59","Male","ST",7870.38
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Female","OBC",1059.01
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Female","SC",4099.83
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Male","OBC",46294.99
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Male","Others",30566.02
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Male","SC",16414.76
+1,1,"Informal sector","Electricity, gas, water","Proprietary (male)","60+","Male","ST",1281.22
+1,1,"Informal sector","Manufacturing","Partnership (different households)","0-14","Female","OBC",557.78
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","OBC",4487.48
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","Others",13791.58
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","SC",1059.38
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Female","ST",639.38
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","OBC",73276.8
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","Others",47301
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","SC",13630.3
+1,1,"Informal sector","Manufacturing","Partnership (different households)","15-29","Male","ST",6133.77
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","OBC",19826.14
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","Others",23659.8
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","SC",7044.38
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Female","ST",1128.85
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","OBC",93940.68
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","Others",100352.23
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","SC",20546.03
+1,1,"Informal sector","Manufacturing","Partnership (different households)","30-44","Male","ST",12229.07
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Female","OBC",22415.8
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Female","Others",1137.71
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Female","SC",3242.22
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Female","ST",46.67
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","OBC",60300.8
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","Others",72600.03
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","SC",9587.94
+1,1,"Informal sector","Manufacturing","Partnership (different households)","45-59","Male","ST",1774.01
+1,1,"Informal sector","Manufacturing","Partnership (different households)","60+","Female","Others",1486.33
+1,1,"Informal sector","Manufacturing","Partnership (different households)","60+","Male","OBC",10455.89
+1,1,"Informal sector","Manufacturing","Partnership (different households)","60+","Male","Others",25628.23
+1,1,"Informal sector","Manufacturing","Partnership (different households)","60+","Male","SC",1771.94
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Female","OBC",6558.9
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Female","Others",1404.27
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Female","SC",589.38
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Female","ST",413.85
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Male","OBC",27803.9
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Male","Others",10561
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Male","SC",1820.94
+1,1,"Informal sector","Manufacturing","Partnership (same household)","15-29","Male","ST",921.48
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Female","OBC",29619.78
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Female","Others",3692.39
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Female","SC",1879.38
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Female","ST",3242.29
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Male","OBC",82762.53
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Male","Others",27963.32
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Male","SC",15304.27
+1,1,"Informal sector","Manufacturing","Partnership (same household)","30-44","Male","ST",495.83
+1,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Female","OBC",11965.22
+1,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Female","Others",4292.03
+1,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Female","SC",1757.92
+1,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Male","OBC",31267.31
+1,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Male","Others",14877.37
+1,1,"Informal sector","Manufacturing","Partnership (same household)","45-59","Male","SC",3349.72
+1,1,"Informal sector","Manufacturing","Partnership (same household)","60+","Female","OBC",3867.5
+1,1,"Informal sector","Manufacturing","Partnership (same household)","60+","Male","OBC",8128.35
+1,1,"Informal sector","Manufacturing","Partnership (same household)","60+","Male","Others",11656.81
+1,1,"Informal sector","Manufacturing","Partnership (same household)","60+","Male","SC",1491.06
+1,1,"Informal sector","Manufacturing","Proprietary (female)","0-14","Female","OBC",5238.77
+1,1,"Informal sector","Manufacturing","Proprietary (female)","0-14","Female","Others",7793.72
+1,1,"Informal sector","Manufacturing","Proprietary (female)","0-14","Female","SC",3413.42
+1,1,"Informal sector","Manufacturing","Proprietary (female)","0-14","Female","ST",368.32
+1,1,"Informal sector","Manufacturing","Proprietary (female)","0-14","Male","SC",372.47
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Female","OBC",1471043.38
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Female","Others",801451.67
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Female","SC",483936.67
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Female","ST",199251.73
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Male","OBC",62249.84
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Male","Others",19660.63
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Male","SC",21911.49
+1,1,"Informal sector","Manufacturing","Proprietary (female)","15-29","Male","ST",9049.64
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Female","OBC",2640571.08
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Female","Others",1221413.91
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Female","SC",822955.48
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Female","ST",318315.98
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Male","OBC",13682.79
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Male","Others",17840.72
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Male","SC",3349.03
+1,1,"Informal sector","Manufacturing","Proprietary (female)","30-44","Male","ST",385.82
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Female","OBC",1163344.69
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Female","Others",540265.88
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Female","SC",300459.65
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Female","ST",71654.32
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Male","OBC",14927.75
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Male","Others",7743.13
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Male","SC",3043.92
+1,1,"Informal sector","Manufacturing","Proprietary (female)","45-59","Male","ST",142.56
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Female","OBC",258360.88
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Female","Others",102745.19
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Female","SC",69322.52
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Female","ST",16016.05
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Male","OBC",2200.22
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Male","Others",1030.6
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Male","SC",1158.59
+1,1,"Informal sector","Manufacturing","Proprietary (female)","60+","Male","ST",2478.31
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Female","OBC",3430.89
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Female","Others",739.33
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Female","SC",490.63
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Male","OBC",21317.16
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Male","Others",1927.39
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Male","SC",7083.25
+1,1,"Informal sector","Manufacturing","Proprietary (male)","0-14","Male","ST",3269.29
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","OBC",325224.48
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","Others",111108.29
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","SC",236791.83
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Female","ST",95942.07
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","OBC",3787308.62
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","Others",1910394.93
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","SC",1523346.11
+1,1,"Informal sector","Manufacturing","Proprietary (male)","15-29","Male","ST",322698.73
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","OBC",796693.02
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","Others",216847.64
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","SC",693037.33
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Female","ST",110429.36
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","OBC",4816418.32
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","Others",2485505.12
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","SC",2022467.92
+1,1,"Informal sector","Manufacturing","Proprietary (male)","30-44","Male","ST",358377.6
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","OBC",549642.98
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","Others",145013.03
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","SC",250234.4
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Female","ST",42029.55
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","OBC",3308175.58
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","Others",1822873.74
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","SC",1139212.26
+1,1,"Informal sector","Manufacturing","Proprietary (male)","45-59","Male","ST",246771.64
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Female","OBC",128765.49
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Female","Others",23383.98
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Female","SC",17200.48
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Female","ST",9572.57
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","OBC",1108834.88
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","Others",587904.87
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","SC",324214.77
+1,1,"Informal sector","Manufacturing","Proprietary (male)","60+","Male","ST",37723.71
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","15-29","Male","OBC",2877.29
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","30-44","Female","OBC",784.88
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","30-44","Male","OBC",709.86
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","45-59","Female","OBC",688.33
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","45-59","Female","Others",1926.75
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","45-59","Male","OBC",5820.32
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","45-59","Male","Others",1926.75
+1,1,"Informal sector","Mining & quarrying","Partnership (different households)","60+","Male","OBC",392.44
+1,1,"Informal sector","Mining & quarrying","Partnership (same household)","30-44","Male","OBC",443.5
+1,1,"Informal sector","Mining & quarrying","Partnership (same household)","30-44","Male","SC",2224.44
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","15-29","Female","OBC",2404.5
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","15-29","Female","ST",335.63
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","15-29","Male","OBC",718.5
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","30-44","Female","OBC",4785.94
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","30-44","Female","ST",1305.86
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","45-59","Female","OBC",1436.38
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","45-59","Female","SC",1281.27
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","45-59","Female","ST",201.67
+1,1,"Informal sector","Mining & quarrying","Proprietary (female)","60+","Female","OBC",989.33
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Female","OBC",5219.76
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Female","Others",4495
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Female","ST",4921.92
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","OBC",45657.11
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","Others",17744.81
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","SC",38120.67
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","15-29","Male","ST",51701.22
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Female","OBC",10993.71
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Female","Others",1111.66
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Female","SC",4729.54
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Female","ST",3034.69
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","OBC",138750.93
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","Others",29715.64
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","SC",71582.57
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","30-44","Male","ST",75726.07
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Female","OBC",5758.56
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Female","Others",5948.08
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Female","SC",1646.66
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Female","ST",4870.17
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","OBC",75635.93
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","Others",28280.71
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","SC",27119.91
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","45-59","Male","ST",39334.11
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","60+","Male","OBC",14571.55
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","60+","Male","Others",6135.27
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","60+","Male","SC",3263.63
+1,1,"Informal sector","Mining & quarrying","Proprietary (male)","60+","Male","ST",5118.06
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","OBC",29514.67
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","Others",12814.39
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","SC",3343.87
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Female","ST",4023
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","OBC",56467
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","Others",34313.71
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","SC",22798.98
+1,1,"Informal sector","Other services","Partnership (different households)","15-29","Male","ST",785
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","OBC",46776.42
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","Others",28350.13
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","SC",6291.88
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Female","ST",5589.77
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","OBC",94855.96
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","Others",75254.65
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","SC",11864.19
+1,1,"Informal sector","Other services","Partnership (different households)","30-44","Male","ST",4268.74
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","OBC",4984.65
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","Others",6799.74
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","SC",4271.98
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Female","ST",714.79
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","OBC",70877.3
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","Others",26682.17
+1,1,"Informal sector","Other services","Partnership (different households)","45-59","Male","SC",9098.07
+1,1,"Informal sector","Other services","Partnership (different households)","60+","Female","OBC",1003.38
+1,1,"Informal sector","Other services","Partnership (different households)","60+","Male","OBC",14978.23
+1,1,"Informal sector","Other services","Partnership (different households)","60+","Male","Others",10694.89
+1,1,"Informal sector","Other services","Partnership (different households)","60+","Male","SC",990.25
+1,1,"Informal sector","Other services","Partnership (different households)","60+","Male","ST",1298.25
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Female","OBC",6712.22
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Female","Others",1161.79
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Female","SC",1240.31
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Female","ST",197.63
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Male","OBC",26945.58
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Male","Others",11207.29
+1,1,"Informal sector","Other services","Partnership (same household)","15-29","Male","SC",691.84
+1,1,"Informal sector","Other services","Partnership (same household)","30-44","Female","OBC",10078.45
+1,1,"Informal sector","Other services","Partnership (same household)","30-44","Female","Others",7988.11
+1,1,"Informal sector","Other services","Partnership (same household)","30-44","Female","SC",736.14
+1,1,"Informal sector","Other services","Partnership (same household)","30-44","Male","OBC",13227.16
+1,1,"Informal sector","Other services","Partnership (same household)","30-44","Male","Others",9989.54
+1,1,"Informal sector","Other services","Partnership (same household)","30-44","Male","SC",1076.79
+1,1,"Informal sector","Other services","Partnership (same household)","45-59","Female","OBC",7006.05
+1,1,"Informal sector","Other services","Partnership (same household)","45-59","Female","Others",12867.62
+1,1,"Informal sector","Other services","Partnership (same household)","45-59","Male","OBC",9494.1
+1,1,"Informal sector","Other services","Partnership (same household)","45-59","Male","Others",15160.8
+1,1,"Informal sector","Other services","Partnership (same household)","60+","Female","OBC",379.31
+1,1,"Informal sector","Other services","Partnership (same household)","60+","Female","Others",417.5
+1,1,"Informal sector","Other services","Partnership (same household)","60+","Male","OBC",3162.06
+1,1,"Informal sector","Other services","Partnership (same household)","60+","Male","Others",1757.25
+1,1,"Informal sector","Other services","Partnership (same household)","60+","Male","SC",188.25
+1,1,"Informal sector","Other services","Proprietary (female)","0-14","Female","Others",553.58
+1,1,"Informal sector","Other services","Proprietary (female)","0-14","Female","SC",1392.88
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","OBC",410022.44
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","Others",351737.01
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","SC",177322.8
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Female","ST",48405.45
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Male","OBC",11613.41
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Male","Others",8145.47
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Male","SC",6232.92
+1,1,"Informal sector","Other services","Proprietary (female)","15-29","Male","ST",197.15
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","OBC",691694.01
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","Others",558006.26
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","SC",262719.81
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Female","ST",33541.53
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Male","OBC",5351.75
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Male","Others",4634.62
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Male","SC",7259.46
+1,1,"Informal sector","Other services","Proprietary (female)","30-44","Male","ST",658.94
+1,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","OBC",299965.05
+1,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","Others",283732.17
+1,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","SC",102730.33
+1,1,"Informal sector","Other services","Proprietary (female)","45-59","Female","ST",26393.38
+1,1,"Informal sector","Other services","Proprietary (female)","45-59","Male","OBC",7529.52
+1,1,"Informal sector","Other services","Proprietary (female)","45-59","Male","Others",1767.27
+1,1,"Informal sector","Other services","Proprietary (female)","60+","Female","OBC",64536.95
+1,1,"Informal sector","Other services","Proprietary (female)","60+","Female","Others",42763.04
+1,1,"Informal sector","Other services","Proprietary (female)","60+","Female","SC",32938.63
+1,1,"Informal sector","Other services","Proprietary (female)","60+","Female","ST",869.22
+1,1,"Informal sector","Other services","Proprietary (female)","60+","Male","OBC",589.17
+1,1,"Informal sector","Other services","Proprietary (female)","60+","Male","Others",2994.75
+1,1,"Informal sector","Other services","Proprietary (male)","0-14","Male","OBC",4835.97
+1,1,"Informal sector","Other services","Proprietary (male)","0-14","Male","Others",803.94
+1,1,"Informal sector","Other services","Proprietary (male)","0-14","Male","SC",847.92
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","OBC",444891.55
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","Others",252745.29
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","SC",212422
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Female","ST",66934.46
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","OBC",2188498.94
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","Others",1176574.33
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","SC",872141.28
+1,1,"Informal sector","Other services","Proprietary (male)","15-29","Male","ST",196607.83
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","OBC",480858.29
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","Others",301349.29
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","SC",232452.15
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Female","ST",52923.41
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","OBC",3014627.55
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","Others",2027750.67
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","SC",993337.68
+1,1,"Informal sector","Other services","Proprietary (male)","30-44","Male","ST",193164.33
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","OBC",256382.95
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","Others",146797.05
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","SC",117930.48
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Female","ST",18348.12
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","OBC",2009550.58
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","Others",1677916.38
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","SC",627629.26
+1,1,"Informal sector","Other services","Proprietary (male)","45-59","Male","ST",91896.72
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Female","OBC",42233.58
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Female","Others",15409.36
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Female","SC",30025.29
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Female","ST",3749.98
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Male","OBC",639426.98
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Male","Others",845837.97
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Male","SC",202733.21
+1,1,"Informal sector","Other services","Proprietary (male)","60+","Male","ST",35820.7
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Female","OBC",7704.49
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Female","Others",965.42
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Female","SC",2448.17
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Female","ST",1637.88
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","OBC",73471.64
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","Others",66911.95
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","SC",11685.89
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","15-29","Male","ST",7264.07
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","OBC",8581.17
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","Others",7108.94
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","SC",365.23
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Female","ST",81.25
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","OBC",117528.98
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","Others",91920.1
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","SC",15837.91
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","30-44","Male","ST",22434.81
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Female","OBC",13612.16
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Female","Others",3284.31
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Female","SC",3894.07
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Male","OBC",96666.52
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Male","Others",70927.48
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Male","SC",10236.07
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","45-59","Male","ST",890.76
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Female","OBC",2480.42
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Female","Others",1047
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Female","ST",384
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Male","OBC",26652.36
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Male","Others",43440.18
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (different households)","60+","Male","SC",2382.56
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Female","OBC",2844.14
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Female","Others",8079
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Female","SC",9
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","OBC",27683.89
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","Others",40472.32
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","SC",5186.85
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","15-29","Male","ST",986.99
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Female","OBC",6111.52
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Female","Others",7503.13
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Female","ST",2390.23
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Male","OBC",49434.55
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Male","Others",44104.94
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Male","SC",423.67
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","30-44","Male","ST",1723.79
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Female","OBC",7913.32
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Female","Others",3535.79
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Female","SC",1877.06
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Male","OBC",15319.44
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Male","Others",38027.91
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Male","SC",2737.19
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","45-59","Male","ST",856.35
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","60+","Female","OBC",3420.38
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","60+","Male","OBC",15022.64
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","60+","Male","Others",14661.08
+1,1,"Informal sector","Trade, hotels & restaurants","Partnership (same household)","60+","Male","SC",994.5
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","0-14","Male","OBC",1121.09
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","OBC",480106
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","Others",215709.36
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","SC",149279.6
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Female","ST",83958.44
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Male","OBC",111681.02
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Male","Others",24884.85
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Male","SC",33615.34
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","15-29","Male","ST",27413.83
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Female","OBC",1198664.24
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Female","Others",641878.42
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Female","SC",361463.58
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Female","ST",234731.68
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Male","OBC",20682.74
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Male","Others",21342.28
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Male","SC",9385.21
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","30-44","Male","ST",3517.96
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Female","OBC",1007676.71
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Female","Others",385194.47
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Female","SC",319053.59
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Female","ST",128559.35
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Male","OBC",11698.59
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Male","Others",5500.59
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Male","SC",3403.44
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","45-59","Male","ST",2753.37
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Female","OBC",358497.97
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Female","Others",133315.91
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Female","SC",96696.65
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Female","ST",41462
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Male","OBC",10662.72
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Male","Others",10792.84
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Male","SC",3322.41
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (female)","60+","Male","ST",733.09
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","0-14","Male","OBC",9944.09
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","0-14","Male","Others",4736.63
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","0-14","Male","SC",2917.27
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","OBC",583310.79
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","Others",214267.97
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","SC",239553.52
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Female","ST",98026.42
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","OBC",6788662.45
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","Others",3519004.92
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","SC",2180143.17
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","15-29","Male","ST",628767.99
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","OBC",1104351.09
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","Others",464259.84
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","SC",383246.93
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Female","ST",100606.04
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","OBC",8831797.21
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","Others",5419841.33
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","SC",2568162.59
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","30-44","Male","ST",650430.02
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","OBC",702659.96
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","Others",286134.24
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","SC",220006.63
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Female","ST",57534.16
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","OBC",6217378.8
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","Others",4509946.28
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","SC",1521522.47
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","45-59","Male","ST",295244.53
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Female","OBC",190162.23
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Female","Others",52798.58
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Female","SC",60130.7
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Female","ST",14199.58
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","OBC",2202639.87
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","Others",1667201
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","SC",560585.6
+1,1,"Informal sector","Trade, hotels & restaurants","Proprietary (male)","60+","Male","ST",80284.39
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Female","OBC",2046.04
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Male","OBC",9771.3
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Male","Others",3418.71
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Male","SC",234
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","15-29","Male","ST",617.88
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Female","OBC",2911.5
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","OBC",21774.64
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","Others",13995.74
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","SC",4705.75
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","30-44","Male","ST",484.19
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","45-59","Female","Others",430.67
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","45-59","Male","OBC",8189.49
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","45-59","Male","Others",5922.28
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","45-59","Male","SC",3144.17
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","60+","Male","OBC",1967.95
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","60+","Male","Others",2816.27
+1,1,"Informal sector","Transport, storage & communication","Partnership (different households)","60+","Male","SC",175.31
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","15-29","Female","SC",108.25
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","15-29","Male","OBC",293.63
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","15-29","Male","Others",5090.34
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","15-29","Male","SC",2343.25
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","30-44","Male","OBC",2761.37
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","30-44","Male","Others",1618.51
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","30-44","Male","SC",2236.17
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","45-59","Male","OBC",88.22
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","45-59","Male","Others",5847.51
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","45-59","Male","SC",2343.25
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","60+","Female","OBC",562.67
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","60+","Male","OBC",955.68
+1,1,"Informal sector","Transport, storage & communication","Partnership (same household)","60+","Male","Others",1461.63
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","OBC",78609.27
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","Others",56628.24
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","SC",24354.49
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Female","ST",11173.11
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Male","Others",663.33
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Male","SC",1670.13
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","15-29","Male","ST",80.96
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Female","OBC",150731.74
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Female","Others",83491.65
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Female","SC",26853.46
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Female","ST",10327.64
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Male","OBC",780.94
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Male","Others",1666.25
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Male","SC",8169.71
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","30-44","Male","ST",1185.09
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","45-59","Female","OBC",42253.29
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","45-59","Female","Others",17042.94
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","45-59","Female","SC",16464.89
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","45-59","Female","ST",2074.98
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","45-59","Male","OBC",4201.42
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","60+","Female","OBC",675.75
+1,1,"Informal sector","Transport, storage & communication","Proprietary (female)","60+","Female","Others",858.88
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","OBC",58303.38
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","Others",11222.35
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","SC",28608
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Female","ST",19989.88
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","OBC",2437789.14
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","Others",1167427.92
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","SC",1095197.7
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","15-29","Male","ST",550270.91
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","OBC",38629.34
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","Others",30763.73
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","SC",28319.41
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Female","ST",16839.73
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","OBC",4266452.33
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","Others",2226095.08
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","SC",1760031.47
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Male","ST",710994.44
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","30-44","Transgender","OBC",721.5
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Female","OBC",9020.25
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Female","Others",4209.32
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Female","SC",5880.16
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","OBC",2209148.67
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","Others",1383199.88
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","SC",851155.47
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","45-59","Male","ST",233329.39
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Female","OBC",891.4
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Female","Others",4589.69
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Male","OBC",287725.49
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Male","Others",249104.61
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Male","SC",115004.61
+1,1,"Informal sector","Transport, storage & communication","Proprietary (male)","60+","Male","ST",18494.99
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Female","OBC",6304.28
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Female","Others",569.51
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Female","SC",4508.37
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Female","ST",8317.39
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Male","OBC",29244.72
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Male","Others",2730.12
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Male","SC",5181.74
+1,,"Crop agriculture","Agriculture","Partnership (different households)","15-29","Male","ST",8719.5
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Female","OBC",16210.58
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Female","Others",247.72
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Female","SC",6896.31
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Female","ST",1554.64
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Male","OBC",23113.53
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Male","Others",7507.72
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Male","SC",12437.38
+1,,"Crop agriculture","Agriculture","Partnership (different households)","30-44","Male","ST",13974.53
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Female","OBC",13743.32
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Female","Others",3269.12
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Female","SC",11569.08
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Male","OBC",23586.97
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Male","Others",5867.08
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Male","SC",11595.76
+1,,"Crop agriculture","Agriculture","Partnership (different households)","45-59","Male","ST",686.76
+1,,"Crop agriculture","Agriculture","Partnership (different households)","60+","Female","OBC",785.41
+1,,"Crop agriculture","Agriculture","Partnership (different households)","60+","Female","Others",606
+1,,"Crop agriculture","Agriculture","Partnership (different households)","60+","Male","OBC",13939.98
+1,,"Crop agriculture","Agriculture","Partnership (different households)","60+","Male","Others",5593.35
+1,,"Crop agriculture","Agriculture","Partnership (different households)","60+","Male","SC",9795.31
+1,,"Crop agriculture","Agriculture","Partnership (different households)","60+","Male","ST",2146.67
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Female","OBC",2603.42
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Female","Others",413.78
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Female","ST",962.5
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Male","OBC",18604.23
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Male","Others",10756.96
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Male","SC",1612.4
+1,,"Crop agriculture","Agriculture","Partnership (same household)","15-29","Male","ST",3134.33
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Female","OBC",1836.5
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Female","Others",2522.61
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Female","SC",6517.2
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Female","ST",275.9
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Male","OBC",18858.88
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Male","Others",16260.51
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Male","SC",7196.13
+1,,"Crop agriculture","Agriculture","Partnership (same household)","30-44","Male","ST",6571.07
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Female","OBC",7282.85
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Female","Others",2901.58
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Female","SC",1051.25
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Female","ST",1727.34
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Male","OBC",12600.7
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Male","Others",16798.9
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Male","SC",3021.15
+1,,"Crop agriculture","Agriculture","Partnership (same household)","45-59","Male","ST",3305.71
+1,,"Crop agriculture","Agriculture","Partnership (same household)","60+","Female","Others",217.33
+1,,"Crop agriculture","Agriculture","Partnership (same household)","60+","Female","ST",180.83
+1,,"Crop agriculture","Agriculture","Partnership (same household)","60+","Male","OBC",7628.92
+1,,"Crop agriculture","Agriculture","Partnership (same household)","60+","Male","Others",8993.54
+1,,"Crop agriculture","Agriculture","Partnership (same household)","60+","Male","SC",3800.7
+1,,"Crop agriculture","Agriculture","Partnership (same household)","60+","Male","ST",1005.83
+1,,"Crop agriculture","Agriculture","Proprietary (female)","0-14","Female","OBC",6580.5
+1,,"Crop agriculture","Agriculture","Proprietary (female)","0-14","Female","ST",1808.5
+1,,"Crop agriculture","Agriculture","Proprietary (female)","0-14","Male","OBC",3120.34
+1,,"Crop agriculture","Agriculture","Proprietary (female)","0-14","Male","SC",10626.75
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Female","OBC",1567028.89
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Female","Others",355808.67
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Female","SC",563198.71
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Female","ST",896476.39
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Male","OBC",477641.41
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Male","Others",85998.72
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Male","SC",219619.43
+1,,"Crop agriculture","Agriculture","Proprietary (female)","15-29","Male","ST",370735.27
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Female","OBC",4196488.79
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Female","Others",1259569.88
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Female","SC",1502772.65
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Female","ST",1233845.31
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Male","OBC",116697.71
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Male","Others",35684.14
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Male","SC",53363.02
+1,,"Crop agriculture","Agriculture","Proprietary (female)","30-44","Male","ST",96927.76
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Female","OBC",2750203.93
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Female","Others",1027646.46
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Female","SC",1062804.93
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Female","ST",938716.32
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Male","OBC",39460.15
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Male","Others",15548.04
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Male","SC",10343.65
+1,,"Crop agriculture","Agriculture","Proprietary (female)","45-59","Male","ST",25486.75
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Female","OBC",757713.59
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Female","Others",303979.68
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Female","SC",281108.65
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Female","ST",287708.66
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Male","OBC",34061.9
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Male","Others",12935.55
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Male","SC",8888.21
+1,,"Crop agriculture","Agriculture","Proprietary (female)","60+","Male","ST",17640.66
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Female","OBC",13000.25
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Female","Others",642.47
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Female","SC",27192.31
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Female","ST",2237.34
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Male","OBC",13795.12
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Male","Others",2140.68
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Male","SC",13864.97
+1,,"Crop agriculture","Agriculture","Proprietary (male)","0-14","Male","ST",36744.2
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Female","OBC",2325308.37
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Female","Others",459023.4
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Female","SC",1235351.21
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Female","ST",2051017.73
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Male","OBC",8714479.8
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Male","Others",2785325.27
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Male","SC",3334310.84
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Male","ST",3600948.97
+1,,"Crop agriculture","Agriculture","Proprietary (male)","15-29","Transgender","OBC",246.67
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Female","OBC",6967801.59
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Female","Others",1887921.11
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Female","SC",3419461.05
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Female","ST",3465222.36
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","OBC",12960265.4
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","Others",5299108.47
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","SC",4784195.22
+1,,"Crop agriculture","Agriculture","Proprietary (male)","30-44","Male","ST",4877971.14
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Female","OBC",6314875.17
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Female","Others",1853323.76
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Female","SC",2802893.95
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Female","ST",2434059.39
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Male","OBC",14767725.04
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Male","Others",6571926.54
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Male","SC",5636547.18
+1,,"Crop agriculture","Agriculture","Proprietary (male)","45-59","Male","ST",4244022.38
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Female","OBC",2040082.92
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Female","Others",616391.99
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Female","SC",910123.12
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Female","ST",650918.14
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Male","OBC",9268216.62
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Male","Others",4558575.45
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Male","SC",3340749.18
+1,,"Crop agriculture","Agriculture","Proprietary (male)","60+","Male","ST",2206005.09
+1,,"Crop agriculture","Agriculture",,"15-29","Female","OBC",24152.87
+1,,"Crop agriculture","Agriculture",,"15-29","Female","Others",7894.28
+1,,"Crop agriculture","Agriculture",,"15-29","Female","SC",7217.68
+1,,"Crop agriculture","Agriculture",,"15-29","Female","ST",88110.79
+1,,"Crop agriculture","Agriculture",,"15-29","Male","OBC",29773.76
+1,,"Crop agriculture","Agriculture",,"15-29","Male","Others",13956.51
+1,,"Crop agriculture","Agriculture",,"15-29","Male","SC",5206.89
+1,,"Crop agriculture","Agriculture",,"15-29","Male","ST",37256.97
+1,,"Crop agriculture","Agriculture",,"30-44","Female","OBC",69038.22
+1,,"Crop agriculture","Agriculture",,"30-44","Female","Others",13746.47
+1,,"Crop agriculture","Agriculture",,"30-44","Female","SC",28528.95
+1,,"Crop agriculture","Agriculture",,"30-44","Female","ST",101244.81
+1,,"Crop agriculture","Agriculture",,"30-44","Male","OBC",44620.46
+1,,"Crop agriculture","Agriculture",,"30-44","Male","Others",14411.4
+1,,"Crop agriculture","Agriculture",,"30-44","Male","SC",24633.59
+1,,"Crop agriculture","Agriculture",,"30-44","Male","ST",78037.24
+1,,"Crop agriculture","Agriculture",,"45-59","Female","OBC",50264.2
+1,,"Crop agriculture","Agriculture",,"45-59","Female","Others",22161.76
+1,,"Crop agriculture","Agriculture",,"45-59","Female","SC",31106.99
+1,,"Crop agriculture","Agriculture",,"45-59","Female","ST",34936.68
+1,,"Crop agriculture","Agriculture",,"45-59","Male","OBC",21380.25
+1,,"Crop agriculture","Agriculture",,"45-59","Male","Others",11737.05
+1,,"Crop agriculture","Agriculture",,"45-59","Male","SC",13187.03
+1,,"Crop agriculture","Agriculture",,"45-59","Male","ST",17443.92
+1,,"Crop agriculture","Agriculture",,"60+","Female","OBC",6879.9
+1,,"Crop agriculture","Agriculture",,"60+","Female","Others",2513.46
+1,,"Crop agriculture","Agriculture",,"60+","Female","SC",9544.58
+1,,"Crop agriculture","Agriculture",,"60+","Female","ST",7766.39
+1,,"Crop agriculture","Agriculture",,"60+","Male","OBC",11771.64
+1,,"Crop agriculture","Agriculture",,"60+","Male","Others",4302.66
+1,,"Crop agriculture","Agriculture",,"60+","Male","SC",8761.06
+1,,"Crop agriculture","Agriculture",,"60+","Male","ST",8965.22
+1,,"Other/unknown","Agriculture",,"0-14","Male","ST",377.42
+1,,"Other/unknown","Agriculture",,"15-29","Female","OBC",586.81
+1,,"Other/unknown","Agriculture",,"15-29","Female","Others",734.72
+1,,"Other/unknown","Agriculture",,"15-29","Female","SC",217.88
+1,,"Other/unknown","Agriculture",,"15-29","Female","ST",15854.05
+1,,"Other/unknown","Agriculture",,"15-29","Male","OBC",6029.12
+1,,"Other/unknown","Agriculture",,"15-29","Male","Others",1849.23
+1,,"Other/unknown","Agriculture",,"15-29","Male","SC",2675.76
+1,,"Other/unknown","Agriculture",,"15-29","Male","ST",28994.38
+1,,"Other/unknown","Agriculture",,"30-44","Female","OBC",10348.76
+1,,"Other/unknown","Agriculture",,"30-44","Female","Others",860.25
+1,,"Other/unknown","Agriculture",,"30-44","Female","SC",6388.75
+1,,"Other/unknown","Agriculture",,"30-44","Female","ST",40068.27
+1,,"Other/unknown","Agriculture",,"30-44","Male","OBC",10193.32
+1,,"Other/unknown","Agriculture",,"30-44","Male","Others",1689.41
+1,,"Other/unknown","Agriculture",,"30-44","Male","SC",2056.47
+1,,"Other/unknown","Agriculture",,"30-44","Male","ST",35335.37
+1,,"Other/unknown","Agriculture",,"30-44","Transgender","OBC",142
+1,,"Other/unknown","Agriculture",,"45-59","Female","OBC",6484.02
+1,,"Other/unknown","Agriculture",,"45-59","Female","Others",734.72
+1,,"Other/unknown","Agriculture",,"45-59","Female","SC",4829.99
+1,,"Other/unknown","Agriculture",,"45-59","Female","ST",19817.51
+1,,"Other/unknown","Agriculture",,"45-59","Male","OBC",9684.62
+1,,"Other/unknown","Agriculture",,"45-59","Male","Others",6245.34
+1,,"Other/unknown","Agriculture",,"45-59","Male","SC",6124.15
+1,,"Other/unknown","Agriculture",,"45-59","Male","ST",33203.48
+1,,"Other/unknown","Agriculture",,"60+","Female","OBC",340.08
+1,,"Other/unknown","Agriculture",,"60+","Female","Others",734.72
+1,,"Other/unknown","Agriculture",,"60+","Female","SC",2322.95
+1,,"Other/unknown","Agriculture",,"60+","Female","ST",301.33
+1,,"Other/unknown","Agriculture",,"60+","Male","OBC",4083.42
+1,,"Other/unknown","Agriculture",,"60+","Male","Others",904.01
+1,,"Other/unknown","Agriculture",,"60+","Male","SC",1039.99
+1,,"Other/unknown","Agriculture",,"60+","Male","ST",1023.81
+1,,"Other/unknown","Construction",,"15-29","Female","OBC",5593.14
+1,,"Other/unknown","Construction",,"15-29","Female","SC",33541.98
+1,,"Other/unknown","Construction",,"15-29","Female","ST",681.9
+1,,"Other/unknown","Construction",,"15-29","Male","OBC",89886.1
+1,,"Other/unknown","Construction",,"15-29","Male","Others",53109.13
+1,,"Other/unknown","Construction",,"15-29","Male","SC",86627.15
+1,,"Other/unknown","Construction",,"15-29","Male","ST",57962.84
+1,,"Other/unknown","Construction",,"30-44","Female","OBC",9050.09
+1,,"Other/unknown","Construction",,"30-44","Female","Others",73.96
+1,,"Other/unknown","Construction",,"30-44","Female","SC",13983.74
+1,,"Other/unknown","Construction",,"30-44","Female","ST",1135.57
+1,,"Other/unknown","Construction",,"30-44","Male","OBC",108652.03
+1,,"Other/unknown","Construction",,"30-44","Male","Others",45116.9
+1,,"Other/unknown","Construction",,"30-44","Male","SC",115527.9
+1,,"Other/unknown","Construction",,"30-44","Male","ST",63302.31
+1,,"Other/unknown","Construction",,"45-59","Female","OBC",2448.13
+1,,"Other/unknown","Construction",,"45-59","Female","Others",179.67
+1,,"Other/unknown","Construction",,"45-59","Female","SC",9522.71
+1,,"Other/unknown","Construction",,"45-59","Female","ST",1718.01
+1,,"Other/unknown","Construction",,"45-59","Male","OBC",69170.16
+1,,"Other/unknown","Construction",,"45-59","Male","Others",22793.95
+1,,"Other/unknown","Construction",,"45-59","Male","SC",63817.35
+1,,"Other/unknown","Construction",,"45-59","Male","ST",21109.86
+1,,"Other/unknown","Construction",,"60+","Male","OBC",20907.32
+1,,"Other/unknown","Construction",,"60+","Male","Others",7151.01
+1,,"Other/unknown","Construction",,"60+","Male","SC",17048.72
+1,,"Other/unknown","Construction",,"60+","Male","ST",1399.38
+1,,"Other/unknown","Electricity, gas, water",,"15-29","Male","Others",1537.17
+1,,"Other/unknown","Electricity, gas, water",,"30-44","Male","Others",235.4
+1,,"Other/unknown","Electricity, gas, water",,"45-59","Female","SC",2361.86
+1,,"Other/unknown","Electricity, gas, water",,"45-59","Male","OBC",1054.56
+1,,"Other/unknown","Electricity, gas, water",,"45-59","Male","SC",1401
+1,,"Other/unknown","Electricity, gas, water",,"60+","Male","Others",4544.67
+1,,"Other/unknown","Manufacturing",,"15-29","Female","OBC",3514.67
+1,,"Other/unknown","Manufacturing",,"15-29","Female","Others",826.5
+1,,"Other/unknown","Manufacturing",,"15-29","Female","SC",2620.58
+1,,"Other/unknown","Manufacturing",,"15-29","Female","ST",372.53
+1,,"Other/unknown","Manufacturing",,"15-29","Male","OBC",56388.97
+1,,"Other/unknown","Manufacturing",,"15-29","Male","Others",40602.16
+1,,"Other/unknown","Manufacturing",,"15-29","Male","SC",23360.53
+1,,"Other/unknown","Manufacturing",,"15-29","Male","ST",5855.22
+1,,"Other/unknown","Manufacturing",,"30-44","Female","OBC",2435.06
+1,,"Other/unknown","Manufacturing",,"30-44","Female","Others",376.17
+1,,"Other/unknown","Manufacturing",,"30-44","Female","SC",2306.3
+1,,"Other/unknown","Manufacturing",,"30-44","Female","ST",148.4
+1,,"Other/unknown","Manufacturing",,"30-44","Male","OBC",24829.55
+1,,"Other/unknown","Manufacturing",,"30-44","Male","Others",34236.34
+1,,"Other/unknown","Manufacturing",,"30-44","Male","SC",9972.96
+1,,"Other/unknown","Manufacturing",,"30-44","Male","ST",7343.92
+1,,"Other/unknown","Manufacturing",,"30-44","Transgender","SC",2001.46
+1,,"Other/unknown","Manufacturing",,"45-59","Female","OBC",3411.33
+1,,"Other/unknown","Manufacturing",,"45-59","Female","Others",1356.82
+1,,"Other/unknown","Manufacturing",,"45-59","Female","SC",163.63
+1,,"Other/unknown","Manufacturing",,"45-59","Male","OBC",29390.8
+1,,"Other/unknown","Manufacturing",,"45-59","Male","Others",12789.03
+1,,"Other/unknown","Manufacturing",,"45-59","Male","SC",15618.21
+1,,"Other/unknown","Manufacturing",,"45-59","Male","ST",4784.91
+1,,"Other/unknown","Manufacturing",,"60+","Female","OBC",503.5
+1,,"Other/unknown","Manufacturing",,"60+","Male","OBC",3405.36
+1,,"Other/unknown","Manufacturing",,"60+","Male","Others",177.38
+1,,"Other/unknown","Manufacturing",,"60+","Male","SC",1521.75
+1,,"Other/unknown","Manufacturing",,"60+","Male","ST",247.22
+1,,"Other/unknown","Mining & quarrying",,"0-14","Male","Others",2172.33
+1,,"Other/unknown","Mining & quarrying",,"15-29","Female","Others",2172.33
+1,,"Other/unknown","Mining & quarrying",,"15-29","Female","ST",168.76
+1,,"Other/unknown","Mining & quarrying",,"15-29","Male","OBC",676.33
+1,,"Other/unknown","Mining & quarrying",,"15-29","Male","Others",3508.83
+1,,"Other/unknown","Mining & quarrying",,"15-29","Male","ST",2504.11
+1,,"Other/unknown","Mining & quarrying",,"30-44","Female","OBC",961.92
+1,,"Other/unknown","Mining & quarrying",,"30-44","Female","ST",5047.57
+1,,"Other/unknown","Mining & quarrying",,"30-44","Male","OBC",4504.4
+1,,"Other/unknown","Mining & quarrying",,"30-44","Male","Others",1498.34
+1,,"Other/unknown","Mining & quarrying",,"30-44","Male","ST",3311.26
+1,,"Other/unknown","Mining & quarrying",,"45-59","Female","Others",2172.33
+1,,"Other/unknown","Mining & quarrying",,"45-59","Female","ST",2553.15
+1,,"Other/unknown","Mining & quarrying",,"45-59","Male","OBC",1742.03
+1,,"Other/unknown","Mining & quarrying",,"45-59","Male","Others",2172.33
+1,,"Other/unknown","Mining & quarrying",,"45-59","Male","ST",2412.32
+1,,"Other/unknown","Mining & quarrying",,"60+","Male","ST",533.75
+1,,"Other/unknown","Other services",,"0-14","Female","ST",204.88
+1,,"Other/unknown","Other services",,"15-29","Female","OBC",21911.3
+1,,"Other/unknown","Other services",,"15-29","Female","Others",12986.52
+1,,"Other/unknown","Other services",,"15-29","Female","SC",22012.65
+1,,"Other/unknown","Other services",,"15-29","Female","ST",6141.43
+1,,"Other/unknown","Other services",,"15-29","Male","OBC",42334.34
+1,,"Other/unknown","Other services",,"15-29","Male","Others",19151.71
+1,,"Other/unknown","Other services",,"15-29","Male","SC",31107.88
+1,,"Other/unknown","Other services",,"15-29","Male","ST",6449.6
+1,,"Other/unknown","Other services",,"15-29","Transgender","OBC",1587.46
+1,,"Other/unknown","Other services",,"15-29","Transgender","Others",3748.84
+1,,"Other/unknown","Other services",,"30-44","Female","OBC",61343.25
+1,,"Other/unknown","Other services",,"30-44","Female","Others",42524.33
+1,,"Other/unknown","Other services",,"30-44","Female","SC",61127.33
+1,,"Other/unknown","Other services",,"30-44","Female","ST",16279.05
+1,,"Other/unknown","Other services",,"30-44","Male","OBC",44161.21
+1,,"Other/unknown","Other services",,"30-44","Male","Others",59905.31
+1,,"Other/unknown","Other services",,"30-44","Male","SC",19419.46
+1,,"Other/unknown","Other services",,"30-44","Male","ST",7134.67
+1,,"Other/unknown","Other services",,"30-44","Transgender","Others",1874.42
+1,,"Other/unknown","Other services",,"45-59","Female","OBC",38145.34
+1,,"Other/unknown","Other services",,"45-59","Female","Others",37933.85
+1,,"Other/unknown","Other services",,"45-59","Female","SC",49837.39
+1,,"Other/unknown","Other services",,"45-59","Female","ST",12752.98
+1,,"Other/unknown","Other services",,"45-59","Male","OBC",55142.78
+1,,"Other/unknown","Other services",,"45-59","Male","Others",38092.1
+1,,"Other/unknown","Other services",,"45-59","Male","SC",6981.56
+1,,"Other/unknown","Other services",,"45-59","Male","ST",6144
+1,,"Other/unknown","Other services",,"60+","Female","OBC",6505.63
+1,,"Other/unknown","Other services",,"60+","Female","Others",9005.92
+1,,"Other/unknown","Other services",,"60+","Female","SC",5578.79
+1,,"Other/unknown","Other services",,"60+","Female","ST",989.21
+1,,"Other/unknown","Other services",,"60+","Male","OBC",16754.65
+1,,"Other/unknown","Other services",,"60+","Male","Others",24067.4
+1,,"Other/unknown","Other services",,"60+","Male","SC",1630.2
+1,,"Other/unknown","Other services",,"60+","Male","ST",147.29
+1,,"Other/unknown","Trade, hotels & restaurants",,"0-14","Male","OBC",7916.79
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Female","OBC",2063.46
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Female","Others",1861.04
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Female","SC",8401.09
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Female","ST",597.83
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","OBC",27431.04
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","Others",26981.17
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","SC",14176.31
+1,,"Other/unknown","Trade, hotels & restaurants",,"15-29","Male","ST",2262.5
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Female","OBC",7178.46
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Female","Others",2046.15
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Female","SC",5469.9
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Female","ST",1904.15
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","OBC",45764.3
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","Others",27028.19
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","SC",10812
+1,,"Other/unknown","Trade, hotels & restaurants",,"30-44","Male","ST",5303.5
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Female","OBC",4977.9
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Female","Others",1936.07
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Female","ST",477.67
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Male","OBC",14219.28
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Male","Others",16015.83
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Male","SC",10799.98
+1,,"Other/unknown","Trade, hotels & restaurants",,"45-59","Male","ST",373.89
+1,,"Other/unknown","Trade, hotels & restaurants",,"60+","Female","OBC",105
+1,,"Other/unknown","Trade, hotels & restaurants",,"60+","Male","OBC",3228.96
+1,,"Other/unknown","Trade, hotels & restaurants",,"60+","Male","Others",4216.92
+1,,"Other/unknown","Transport, storage & communication",,"15-29","Female","Others",1284.21
+1,,"Other/unknown","Transport, storage & communication",,"15-29","Female","SC",1103.82
+1,,"Other/unknown","Transport, storage & communication",,"15-29","Male","OBC",11551.57
+1,,"Other/unknown","Transport, storage & communication",,"15-29","Male","Others",23764.71
+1,,"Other/unknown","Transport, storage & communication",,"15-29","Male","SC",18475.44
+1,,"Other/unknown","Transport, storage & communication",,"15-29","Male","ST",2551.79
+1,,"Other/unknown","Transport, storage & communication",,"30-44","Female","OBC",1374.52
+1,,"Other/unknown","Transport, storage & communication",,"30-44","Male","OBC",34816
+1,,"Other/unknown","Transport, storage & communication",,"30-44","Male","Others",38423.55
+1,,"Other/unknown","Transport, storage & communication",,"30-44","Male","SC",13331.03
+1,,"Other/unknown","Transport, storage & communication",,"30-44","Male","ST",2383.96
+1,,"Other/unknown","Transport, storage & communication",,"45-59","Female","Others",1551.38
+1,,"Other/unknown","Transport, storage & communication",,"45-59","Male","OBC",11223.39
+1,,"Other/unknown","Transport, storage & communication",,"45-59","Male","Others",6979.75
+1,,"Other/unknown","Transport, storage & communication",,"45-59","Male","SC",2944.42
+1,,"Other/unknown","Transport, storage & communication",,"45-59","Male","ST",2618.14
+1,,"Other/unknown","Transport, storage & communication",,"60+","Male","OBC",4551.34
+1,,"Other/unknown","Transport, storage & communication",,"60+","Male","Others",2065.17
+1,,"Other/unknown","Transport, storage & communication",,"60+","Male","SC",2610
+1,,"Other/unknown","Transport, storage & communication",,"60+","Male","ST",215.83
