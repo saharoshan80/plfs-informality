@@ -147,3 +147,9 @@
   }
   .interlude { font-size: 1.1rem; margin: 3rem auto; }
 }
+
+
+// ---- PHONES: keep the big headline number away from the screen edge ----
+@media (max-width: 575.98px) {
+  #cr-headline { padding-inline: 2.25rem; }
+}
