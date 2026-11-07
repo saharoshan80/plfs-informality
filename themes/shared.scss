@@ -122,3 +122,28 @@
 }
 .dot-key.informal { background-color: $informal; }
 .dot-key.formal   { background-color: $formal; }
+
+
+// ---- PHONES ----
+// On screens narrower than 576px Closeread always scrolls the text OVER the
+// chart. These rules pin the chart to the top, make the text cards solid,
+// and add more empty scrolling between cards.
+@media (max-width: 575.98px) {
+  body .cr-section .sticky-col .sticky-col-stack .sticky {
+    margin: 0.5rem auto auto;          // top / sides / bottom: stick to the top
+    width: 100%;
+  }
+  body .cr-section .sticky img { width: 100%; height: auto; }   // R charts fill the width
+  .cr-section {
+    --cr-narrative-background-color-overlay: #{$panel};          // solid card, no see-through
+    --cr-narrative-font-size: 1rem;
+  }
+  body .cr-section .narrative-col .trigger.new-trigger {
+    padding-block: 65svh;                // more scroll between cards
+    padding-inline: 10px;
+  }
+  body .cr-section .narrative-col .narrative {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);   // lift the card off the chart
+  }
+  .interlude { font-size: 1.1rem; margin: 3rem auto; }
+}

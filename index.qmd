@@ -162,13 +162,18 @@ joint = FileAttachment("data/joint.csv").csv({typed: true})
 
 ```{ojs}
 // ---- SETTINGS: chart size, dot grid, colours ----
-W = 760
-labelW = 240
-cols = 40
-cell = (W - labelW - 10) / cols
-radius = cell * 0.38
-gap = 26
-topPad = 46
+// phones (narrower than 576px, Closeread's own mobile breakpoint) get a
+// narrower chart with labels ABOVE each group instead of to the left, so the
+// dots can use the full width of the screen
+mobile = window.matchMedia("(max-width: 575.98px)").matches
+W = mobile ? 400 : 760                 // chart width (in chart units)
+labelW = mobile ? 0 : 240              // space for labels on the left
+cols = mobile ? 30 : 40                // dots per row
+cell = (W - labelW - 10) / cols        // size of one dot's square
+radius = cell * (mobile ? 0.42 : 0.38) // dot size
+gap = mobile ? 14 : 26                 // space between groups
+labelH = mobile ? 34 : 0               // room for the label above each group (phones only)
+topPad = mobile ? 36 : 46              // room for the legend at the top
 // dot colours come from the theme file (CSS variables --informal and --formal)
 themeColor = name => getComputedStyle(document.documentElement).getPropertyValue(name).trim()
 colInformal = themeColor("--informal") || "#c8553d"
@@ -239,22 +244,24 @@ function layout(data, step) {
   const pos = new Map();
   const labels = [];
   let y = topPad;
-  for (const [key, ds] of groups) {
+   for (const [key, ds] of groups) {
+    const dotsTop = y + labelH;          // on phones the dots start below the label
     ds.sort((a, b) => d3.descending(a.informal_emp, b.informal_emp) || a.dot_id - b.dot_id);
     ds.forEach((d, i) => pos.set(d.dot_id, {
       x: labelW + (i % cols) * cell + cell / 2,
-      y: y + Math.floor(i / cols) * cell + cell / 2
+      y: dotsTop + Math.floor(i / cols) * cell + cell / 2
     }));
     const ex = exact.get(key);
     labels.push({
-      key, y,
-      n:        Math.round(ex.n / 1e6),                 // workers in the group (millions)
-      infM:     Math.round(ex.inf / 1e6),               // informal workers in the group (millions)
-      pct:      Math.round(100 * ex.inf / ex.n),        // % of the group who are informal
-      infShare: Math.round(100 * ex.inf / totalInf),    // group's % of all informal workers
-      share:    Math.round(100 * ex.n / totalN)         // group's % of all workers on screen
+      key,
+      ly: mobile ? y + 13 : y + cell / 2 + 4,           // where the label sits
+      n:        Math.round(ex.n / 1e6),
+      infM:     Math.round(ex.inf / 1e6),
+      pct:      Math.round(100 * ex.inf / ex.n),
+      infShare: Math.round(100 * ex.inf / totalInf),
+      share:    Math.round(100 * ex.n / totalN)
     });
-    y += Math.ceil(ds.length / cols) * cell + gap;
+    y = dotsTop + Math.ceil(ds.length / cols) * cell + gap;
   }
   return {pos, labels, height: y};
 }
@@ -268,8 +275,8 @@ H = d3.max(Object.values(steps), s => layout(dots, s).height)
 chart = {
   const svg = d3.create("svg")
     .attr("viewBox", [0, 0, W, H])
-    .style("width", "min(60vw, 900px)")
-    .style("max-height", "88vh");
+        .style("width", mobile ? "100%" : "min(60vw, 900px)")
+    .style("max-height", mobile ? "80svh" : "88vh");
 
   const legend = svg.append("g").attr("font-size", 12);
   [["Informal job", colInformal], ["Formal job", colFormal]].forEach(([txt, col], i) => {
@@ -329,10 +336,13 @@ update = {
     .join(
       enter => {
         const g = enter.append("g").attr("class", "lab").attr("opacity", 0);
-        g.append("text").attr("class", "name").attr("x", labelW - 12)
-          .attr("text-anchor", "end").attr("font-size", 13).attr("font-weight", 600);
-        g.append("text").attr("class", "sub").attr("x", labelW - 12).attr("dy", 15)
-          .attr("text-anchor", "end").attr("font-size", 11).attr("fill", "#6b7280");
+                // desktop: right-aligned to the left of the dots; phones: left-aligned above them
+        const lx = mobile ? 2 : labelW - 12;
+        const anchor = mobile ? "start" : "end";
+        g.append("text").attr("class", "name").attr("x", lx)
+          .attr("text-anchor", anchor).attr("font-size", 13).attr("font-weight", 600);
+        g.append("text").attr("class", "sub").attr("x", lx).attr("dy", 15)
+          .attr("text-anchor", anchor).attr("font-size", 11).attr("fill", "#6b7280");
         return g;
       },
       update => update,
@@ -340,7 +350,7 @@ update = {
     );
 
   lab.transition(t).attr("opacity", 1)
-    .attr("transform", d => `translate(0, ${d.y + cell / 2 + 4})`);
+       .attr("transform", d => `translate(0, ${d.ly})`);
   // group name: a step-specific name first, then the general display name
   lab.select(".name").text(d => step.names?.get(d.key) ?? displayName.get(d.key) ?? d.key);
   // the small label: wording depends on the step's `show` setting
